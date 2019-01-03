@@ -10,7 +10,7 @@ ALE SENSIBLE is an opinionated 190-byte-long new default config for the ALE lint
 - **No more broken colorthemes, ALE SENSIBLE matches _all_ your colorthemes**
 - **No bloat in your .vimrc/init.vim, it's just one line pulling a tiny 190-byte-plugin (or add them yourself)**
 
-With ALE's default config, the gutter drives you nuts. It jumps in and out when quick-switching between linted and non-linted files. If you prefer a toned-down, minimalistic editor experience this gutter just feels out of place. It has a noisy, jumpy, stuttery appearance pushing all your code back and forth, especially if you are coding on a remote server and worse: There aren't any colorthemes which theme the gutter. So it's always dull grey and doesn't match any of your colorschemes. 
+The first time, I PlugCleaned it right away, the first impression wasn't good. With ALE's default config, the gutter drives you nuts. It jumps in and out when quick-switching between linted and non-linted files. If you prefer a toned-down, minimalistic editor experience this gutter just feels wrong and out of place. It has a noisy, jumpy, stuttery appearance pushing all your code back and forth, especially if you are coding on a remote server. Worse: There aren't any colorthemes which theme the gutter. So it's always dull grey and doesn't match any of your colorschemes. 
 
 To fix all these issues just place...
 
