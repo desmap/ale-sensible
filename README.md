@@ -4,7 +4,7 @@ ALE is a modern asynchronous linter for Vim/Neovim (Neovim). ALE SENSIBLE are op
 
 ![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50647394-bba29f80-0f78-11e9-83be-1cd33c75ca32.png)
 
-- **No stuttery gutter taking space or shaking up your code**
+- **No stuttery gutter taking space or shaking up your code–experience a butter-smooth ALE**
 - **No nervous ALE linting in the current line while editing**
 - **No sluggish/intentionally delayed linting; linting is right after 0ms in Normal or 0ms after leaving Insert Mode** 
 - **No more broken colorthemes, ale-sensible matches all colorthemes**
