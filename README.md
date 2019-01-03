@@ -8,7 +8,7 @@ ALE SENSIBLE is an opinionated 190-byte-long new default config for the ALE lint
 - **No nervous ALE linting/warning/flagging the current line while you code**
 - **No sluggish/intentionally delayed linting, get responsive linting after 0ms in Normal or 0ms after leaving Insert Mode** 
 - **No more broken colorthemes, ALE SENSIBLE matches _all_ your colorthemes**
-- **No bloat in your .vimrc/init.vim, it's just one line pulling a tiny 190-byte-plugin (or add them yourself[1])**
+- **No bloat in your .vimrc/init.vim, it's just one line pulling a tiny 190-byte-plugin (or add them yourself)**
 
 With ALE's default config, the gutter drives you nuts. It jumps in and out when quick-switching between linted and non-linted files. If you prefer a toned-down, minimalistic editor experience this gutter just feels out of place. It has a noisy, jumpy, stuttery appearance pushing all your code back and forth, especially if you are coding on a remote server and worse: There aren't any colorthemes which theme the gutter. So it's always dull grey and doesn't match any of your colorschemes. 
 
@@ -31,6 +31,6 @@ This should be enough info to start. Find further ALE options and commands with 
 
 _Missing any settings that should be default? Open an issue or PR, I am happy to get your input._
 
-_[1]Don't want a plugin but just add the stuff yourself to your config? Check this: https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim_
+_Don't want a plugin but just add the stuff yourself to your config? Check this: https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim_
 
 <img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=150/>
