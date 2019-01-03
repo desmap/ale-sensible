@@ -29,6 +29,8 @@ Further, install all linters/fixers you want to use locally or globally (don't m
 
 This should be enough info to start. Find further ALE options and commands with `:help ale`.
 
-**Missing any settings that should be default? Open an issue or PR, I am happy to get your input!**
+_Missing any settings that should be default? Open an issue or PR, I am happy to get your input._
+
+_Don't want a plugin but just the stuff yourself to your config? Check this: https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim_
 
 <img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=150/>
