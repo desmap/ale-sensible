@@ -21,8 +21,8 @@ Plug 'desmap/ale-sensible'
 Plug 'w0rp/ale'
 ...
 ```
-Install all linters you want to use locally or globally (don't mix) and ALE will find them. To set fixers, e.g. first Prettier, then Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your config. To execute all fixers, run `:ALEFix` in Neovim.
+Install all linters/fixers you want to use locally or globally (don't mix) and ALE will find them. To set fixers, e.g. first Prettier, then Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your config. To execute all fixers, run `:ALEFix` in Neovim.
 
-Find further config options for ALE in Neovim with `:help ale`
+Find further ALE options with `:help ale`
 
-**Missing any settings which should be default? Add an issue or PR!**
+**Missing any settings that should be default? Add an issue or PR!**
