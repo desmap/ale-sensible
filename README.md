@@ -2,7 +2,7 @@
 
 ALE SENSIBLE is an opinionated 190-byte-long new default config for the ALE linter. It offers a welcoming, stutter-free, out-of-the-box experience from the first second:
 
-![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50660934-bd348d80-0fa1-11e9-8b6b-b59091d395ff.png)
+![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50661068-3df38980-0fa2-11e9-8a6c-e657232484db.png)
 
 - **No stuttery gutter taking space or shaking up your code anymore, experience a butter-smooth ALE**
 - **No nervous ALE warning and flagging the current line while you code**
