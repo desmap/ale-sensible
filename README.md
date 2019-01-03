@@ -30,5 +30,3 @@ Further, install all linters/fixers you want to use locally or globally (don't m
 This should be enough info to start. Find further ALE options and commands with `:help ale`.
 
 **Missing any settings that should be default? Open an issue or PR, I am happy to get your input!**
-
-_FYI, ALE SENSIBLE started when ALE's creator recommended to create a dedicated plugin after some discussion around the right defaults: https://github.com/w0rp/ale/issues/2178_
