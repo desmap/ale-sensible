@@ -1,4 +1,4 @@
-<img src='https://user-images.githubusercontent.com/43666255/50660194-3c749200-0f9f-11e9-8668-520662ae79d0.png' width=600/>
+<img src='https://user-images.githubusercontent.com/43666255/50660194-3c749200-0f9f-11e9-8668-520662ae79d0.png' width=500/>
 
 ALE SENSIBLE is an opinionated 190-byte-long new default config for the ALE linter. It offers a welcoming, stutter-free, out-of-the-box experience from the first second:
 
@@ -30,3 +30,5 @@ Further, install all linters/fixers you want to use locally or globally (don't m
 This should be enough info to start. Find further ALE options and commands with `:help ale`.
 
 **Missing any settings that should be default? Open an issue or PR, I am happy to get your input!**
+
+<img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=150/>
