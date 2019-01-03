@@ -4,15 +4,14 @@ ALE SENSIBLE is an opinionated 190-byte-long new default config for the ALE lint
 
 ![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50661068-3df38980-0fa2-11e9-8a6c-e657232484db.png)
 
-- **Experience a butter-smooth ALE right out of the box**
-- **PlugInstall and start, no need to read miles-long README files, no tinkering with millions of settings** 
-- **No stutter-gutter taking space or shaking up your code**
+- **Experience a butter-smooth ALE right out of the box, PlugInstall and start** 
+- **No stuttery gutter taking space or shaking up your code**
 - **No nervous ALE linting/warning/flagging/messing in the current line while you code**
-- **No sluggish/intentionally delayed linting; responsive linting after 0ms in Normal or 0ms after leaving Insert Mode** 
-- **No more broken colorthemes, ALE SENSIBLE matches _all_ your colorthemes**
-- **No bloat in your .vimrc/init.vim, it's just one line pulling a tiny 190-byte-plugin**
+- **No delayed linting; responsive linting after 0ms in Normal or 0ms after leaving Insert Mode** 
+- **No more broken colorthemes, ALE SENSIBLE matches all colorthemes**
+- **No bloat in .vimrc/init.vim, it's just one line pulling a tiny 190-byte-plugin**
 
-The first time I installed ALE, I PlugCleaned it right away. It felt half-baken with its default settings. ALE's gutter drove me nuts. It pops in and out when quick-switching between linted and non-linted files. If you prefer a toned-down, minimalistic editor this gutter  feels wrong and out of place. It has a noisy, bumpy, jarring appearance and pushes your code constantly  back and forth. Worse: There aren't any colorthemes which make the gutter pretty. So it's always dull grey and doesn't match any of your colorschemes. 
+ALE's gutter can be annoying in its default setting. It pops in and out when quick-switching between linted and non-linted files. If you prefer a toned-down, minimalistic editor this gutter feels out of place. It has a noisy, bumpy, jarring appearance and pushes your code constantly  back and forth. Worse: There aren't any colorthemes which make the gutter pretty. So it's always dull grey and doesn't match any of your colorschemes. 
 
 To fix this and more just place...
 
@@ -31,6 +30,6 @@ Then, install all linters/fixers you want to use locally or globally (don't mix 
 
 This should be enough for a good start. Find further ALE options and commands with `:help ale`.
 
-_Missing any settings that should be default? Open an issue or PR, I am happy to get your input._
+_Missing any settings that should be default? Open an issue or PR._
 
 <img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=150/>
