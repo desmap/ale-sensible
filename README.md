@@ -27,7 +27,7 @@ _Above applies to vim-plug users, adjust these lines if you use another or no pl
 
 Further, install all linters/fixers you want to use locally or globally (don't mix local and global) and ALE will find them. To set fixers, e.g. first Prettier, then Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute all fixers, run `:ALEFix` in Vim/Neovim.
 
-Find further ALE options with `:help ale`
+Find further ALE options with `:help ale`.
 
 **Missing any settings that should be default? Open an issue or PR, I am happy to get your input!**
 
