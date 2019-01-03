@@ -1,7 +1,8 @@
-# ale-sensible
-Sensible defaults for ALE
+![](https://user-images.githubusercontent.com/43666255/50647950-37e9b280-0f7a-11e9-90b6-f1baa3b0128e.png)
 
-ALE is a modern linter for Vim/Neovim (Neovim) employing their asynchronous capabilities. ale-sensible provides sensible defaults:
+ALE is a modern linter for Vim/Neovim (Neovim) employing their asynchronous features. ale-sensible provides sensible defaults:
+
+![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50647394-bba29f80-0f78-11e9-83be-1cd33c75ca32.png)
 
 - **No stuttery gutter taking space and shaking up your code**
 - **No nervous linting in the current line while editing**
