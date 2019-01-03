@@ -29,6 +29,6 @@ Further, install all linters/fixers you want to use locally or globally (don't m
 
 Find further ALE options with `:help ale`
 
-**Missing any settings that should be default? Add an issue or PR!**
+**Missing any settings that should be default? Open an issue or PR, I am happy to get your input!**
 
 FYI, ALE SENSIBLE started when ALE's creator recommended to create a dedicated plugin (which was also the right idea): https://github.com/w0rp/ale/issues/2178 
