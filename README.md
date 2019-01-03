@@ -23,7 +23,9 @@ Plug 'desmap/ale-sensible'
 Plug 'w0rp/ale'
 ...
 ```
-Install all linters/fixers you want to use locally or globally (don't mix) and ALE will find them. To set fixers, e.g. first Prettier, then Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your config. To execute all fixers, run `:ALEFix` in Vim/Neovim.
+_Above applies to vim-plug users, adjust these lines if you use another/no plugin manager._
+
+Further, install all linters/fixers you want to use locally or globally (don't mix) and ALE will find them. To set fixers, e.g. first Prettier, then Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your config. To execute all fixers, run `:ALEFix` in Vim/Neovim.
 
 Find further ALE options with `:help ale`
 
