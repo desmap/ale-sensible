@@ -8,7 +8,7 @@ ALE SENSIBLE is an opinionated 190-byte-long new default config. It offers a wel
 
 - **No stuttery gutter taking space or shaking up your code, experience a butter-smooth ALE**
 - **No nervous ALE always warning and flagging the current line while you edit code**
-- **No sluggish/intentionally delayed linting; linting is right after 0ms in Normal or 0ms after leaving Insert Mode** 
+- **No sluggish/intentionally delayed linting, linting is right after 0ms in Normal or 0ms after leaving Insert Mode** 
 - **No more broken colorthemes, ALE SENSIBLE matches all your colorthemes**
 - **No bloat in your .vimrc/init.vim, it's just one line pulling a tiny 190-byte-plugin**
 
@@ -27,7 +27,7 @@ _Above applies to vim-plug users, adjust these lines if you use another or no pl
 
 Further, install all linters/fixers you want to use locally or globally (don't mix local and global) and ALE will find them. To set fixers, e.g. first Prettier, then Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute all fixers, run `:ALEFix` in Vim/Neovim.
 
-Find further ALE options with `:help ale`.
+Find further ALE options and commands with `:help ale`.
 
 **Missing any settings that should be default? Open an issue or PR, I am happy to get your input!**
 
