@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/43666255/50647950-37e9b280-0f7a-11e9-90b6-f1baa3b0128e.png)
+![](https://user-images.githubusercontent.com/43666255/50660072-cff99300-0f9e-11e9-9340-6b044832ec43.png)
 
 ALE SENSIBLE is an opinionated 190-byte-long new default config for the ALE linter. It offers a welcoming, stutter-free, out-of-the-box experience from the first second:
 
