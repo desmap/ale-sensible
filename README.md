@@ -7,7 +7,7 @@ ALE is a modern asynchronous linter for Vim/Neovim (Neovim). ALE SENSIBLE are op
 - **No stuttery gutter taking space or shaking up your code–experience a butter-smooth ALE**
 - **No nervous ALE always linting in the current line while editing**
 - **No sluggish/intentionally delayed linting; linting is right after 0ms in Normal or 0ms after leaving Insert Mode** 
-- **No more broken colorthemes, ale-sensible matches all colorthemes**
+- **No more broken colorthemes, ALE SENSIBLE matches all colorthemes**
 - **No bloat in your init.vim/.vimrc, it's just one line–a 190 byte plugin that makes ALE turn-key-ready**
 
 With ALE's default config, the gutter drives you nuts because it jumps in and out when quick-switching between linted and non-linted files. If you prefer a toned-down minimalistic editor experience this gutter just feels out of place. It has a noisy, jumpy, stuttery appearance pushing all your code back and forth, especially if you are coding on a remote server and worse: There aren't any colorthemes which theme the gutter. So it's always dull grey and doesn't match any of your colorscheme. To fix all these issues just place...
