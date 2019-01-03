@@ -15,7 +15,7 @@ With ALE's default config the gutter jumps in and out when switching buffers bet
 ```
 Plug 'desmap/ale-sensible'
 ```
-in your Neovim config and before the ALE plugin. So you should end up with...
+in your Neovim config before the ALE plugin. So you should end up with...
 ```
 Plug 'desmap/ale-sensible'
 Plug 'w0rp/ale'
@@ -24,4 +24,3 @@ Plug 'w0rp/ale'
 Install all linters you want to use locally or globally (don't mix) and ALE will find them. To set fixers, e.g. first Prettier, then Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your config. To execute all fixers, run `:ALEFix` in Neovim.
 
 Find further config options for ALE in Neovim with `:help ale`
-
