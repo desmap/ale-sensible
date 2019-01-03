@@ -31,4 +31,4 @@ Find further ALE options with `:help ale`
 
 **Missing any settings that should be default? Open an issue or PR, I am happy to get your input!**
 
-FYI, ALE SENSIBLE started when ALE's creator recommended to create a dedicated plugin (which was also the right idea): https://github.com/w0rp/ale/issues/2178 
+FYI, ALE SENSIBLE started when ALE's creator recommended to create a dedicated plugin after some discussion around the right defaults: https://github.com/w0rp/ale/issues/2178 
