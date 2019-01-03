@@ -6,7 +6,7 @@ ALE SENSIBLE is an opinionated 190-byte-long new default config for the ALE lint
 
 - **No stuttery gutter taking space or shaking up your code anymore, experience a butter-smooth ALE**
 - **No nervous ALE warning and flagging the current line while you code**
-- **No sluggish/intentionally delayed linting, responsive linting right after 0ms in Normal or 0ms after leaving Insert Mode** 
+- **No sluggish/intentionally delayed linting, responsive linting after 0ms in Normal or 0ms after leaving Insert Mode** 
 - **No more broken colorthemes, ALE SENSIBLE matches all your colorthemes**
 - **No bloat in your .vimrc/init.vim, it's just one line pulling a tiny 190-byte-plugin**
 
