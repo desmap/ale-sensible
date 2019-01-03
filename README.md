@@ -23,14 +23,12 @@ Plug 'desmap/ale-sensible'
 Plug 'w0rp/ale'
 ...
 ```
-_Above applies to vim-plug users, adjust these lines to your way of installing plugins._
+_Above applies to vim-plug users, adjust these lines to your way of installing plugins or just copy'n'paste the stuff yourself from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim)_
 
 Further, install all linters/fixers you want to use locally or globally (don't mix local and global) and ALE will find them. To set fixers, e.g. first Prettier, then Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute all fixers, run `:ALEFix` in Vim/Neovim.
 
 This should be enough info to start. Find further ALE options and commands with `:help ale`.
 
 _Missing any settings that should be default? Open an issue or PR, I am happy to get your input._
-
-_Don't want a plugin but just add the stuff manually? Check https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim_
 
 <img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=150/>
