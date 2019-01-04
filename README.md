@@ -1,6 +1,6 @@
 <img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=60%/>
 
-**ALE SENSIBLE is a 190-byte-long new default config for ALE** fixing and overriding ALE's time-consuming default config. It provides a welcoming, stutter-free, turn-key-ready experience:
+**ALE SENSIBLE is a 190-byte-long new default config for ALE fixing and overriding ALE's time-consuming default config. It provides a welcoming, stutter-free, turn-key-ready experience.**
 
 ![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50682830-6a45ef00-1010-11e9-9fad-09273faf40e5.png)
 
