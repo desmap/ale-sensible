@@ -18,11 +18,11 @@ ALE SENSIBLE is a 190-byte-long new default config for ALE fixing and overriding
 - **Experience Vim/Neovim as what they are, the slickest, most minimalistic and toned-down editor on earth, not some bulky IDE with cumberome GUI elements; a jarring GUI is not the reason you chose Vim/Neovim, don't turn them into some Frankenstein-IDE**
 - **Don't waste your precious time with setting up, maintaining _a linter_, reading its docs and asking its maintainers how to use it; _it's. just. a. linter._, move on, code and create stuff, the linter should work for you, not the way around, you are not paid to set up a linter all day long; _linters are overrated_, actually most are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines; only because ALE is asynchornous doesn't make it less distracting**
 
-No more half-baken ALE, no more time-wasting, just place...
+No more half-baken ALE, no more time-wasting, **vim-plug** users just put...
 ```
 Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ```
-...in your .vimrc/init.vim (if you have already a line with `Plug 'w0rp/ale`, remove!). Above applies to vim-plug users, adapt this for your plugin manager or just copy'n'paste from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim)
+...in their .vimrc/init.vim (if you have already a line with `Plug 'w0rp/ale`, remove!). Adapt above for your plugin manager or just copy'n'paste from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim)
 
 Then, install all linters/fixers you want (don't mix local and global installs!) and ALE will find them. To set fixers, e.g. first Prettier, second Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. This should be enough for a quick start. Further ALE options/commands => `:help ale`.
 
