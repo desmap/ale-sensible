@@ -18,7 +18,7 @@
 - **Easily remove and add** ALE SENSIBLE and its config in one step, sometimes you don't want it to be installed
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
 
-**Don't waste your time with setting up, maintaining _linters_,** reading their docs and asking their maintainers how to use it; _it's. just. a. linter._, move on. Code and create stuff. The linter should work for you, not the way around. You are not paid to set up a linter all day long. _Linters are overrated_: Actually most of us are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines. Only because ALE is asynchornous doesn't make it less distracting.
+**Don't waste your time with setting up, maintaining _linters_,** reading their docs and asking maintainers how to use it; _it's. just. a. linter._, move on, code and create stuff. The linter should work for you, not the way around. _Linters are overrated_: Actually most of us are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines. Only because ALE is asynchornous doesn't make it less distracting.
 
 ## Install
 
