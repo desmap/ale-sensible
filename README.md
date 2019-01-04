@@ -22,7 +22,7 @@ No more half-baken ALE, no more time-wasting, just place...
 ```
 Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ```
-...in your .vimrc/init.vim (remove any additional `Plug 'w0rp/ale'). This applies to vim-plug users, adjust this for your plugin manager or just copy'n'paste from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim)_
+...in your .vimrc/init.vim (if you have any additional `Plug 'w0rp/ale`, remove). This applies to vim-plug users, adjust this for your plugin manager or just copy'n'paste from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim)_
 
 Then, install all linters/fixers you want (don't mix local and global installs!) and ALE will find them. To set fixers, e.g. first Prettier, second Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. This should be enough for a quick start. Further ALE options/commands => `:help ale`.
 
