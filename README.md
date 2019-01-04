@@ -5,7 +5,7 @@
 ![](https://user-images.githubusercontent.com/43666255/50682830-6a45ef00-1010-11e9-9fad-09273faf40e5.png)
 
 ## Features
-**Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Fix all of ALE's annoyances with one line _without_ reading bulky docs, a +40Kb README or verbose help files. This README is 2.95Kb and you won't need more. Don't waste time with a linter's setup. _It's. just. a. linter._Move on, keep on coding and create stuff. A linter should fix _your_ code, it's not the way around.
+**Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Fix all of ALE's annoyances with one line _without_ reading bulky docs, a +40Kb README or verbose help files. This README is 2.95Kb and you won't need more. Don't waste time with a linter's setup. _It's. just. a. linter. Move on, keep on coding and create stuff. A linter should fix _your_ code, it's not the way around.
 
 - **No more stuttery gutter** shaking up your code, pumping in and out
 - **Easy quick-switching of buffers and files** without a laggy ALE bumping the gutter in your face
@@ -18,7 +18,7 @@
 - **Easily remove and add ALE SENSIBLE**, sometimes you want it uninstalled and `:ALEToogle' wouldn't help 
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
 
-**Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right defaults, getting the liner fast, fixing wrong linter warnings and testing different linting engines for days. Only because ALE is asynchornous doesn't make it less distracting.
+**Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right defaults, getting the liner fast, fixing wrong linter warnings and testing different linting engines for days. Only because ALE is asynchornous doesn't make it less distracting. Think back, when was the last time your created some master piece of code? You remember? Ok, did you use a linter then?
 
 ## Install
 
