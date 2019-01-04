@@ -4,7 +4,7 @@
 
 ![](https://user-images.githubusercontent.com/43666255/50682830-6a45ef00-1010-11e9-9fad-09273faf40e5.png)
 
-## ALE VS ALE SENSIBLE 
+## ALE vs ALE SENSIBLE 
 **Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Fix all of ALE's annoyances with one line _without_ reading bulky docs, a 44Kb README 😬 or verbose help files. The README you're reading is 3Kb and you won't need more. Don't waste time with a linter's setup. _It's. just. a. linter._ Move on, keep coding, create stuff. A linter should fix _your_ code, it's not the way around.
 
 - **No more stuttery, jumpy gutter** shaking up your code, pumping the screen in and out
@@ -20,7 +20,7 @@
 
 **Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right defaults, getting the linter fast, fixing wrong linter warnings and testing different linting engines for days. Only because ALE is asynchornous doesn't make it less distracting. Think back: When was the last time your created some masterpiece of code? You remember? **Did you use a linter then?** 😶
 
-## Install
+## Install and never touch your linter again
 
 **No more half-baken ALE,** no more time-wasting, vim-plug users just put...
 ```
