@@ -18,7 +18,7 @@
 - **1step remove/add back of ALE SENSIBLE + its config**, sometimes you want it uninstalled and `:ALEToogle` won't help 
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
 
-**Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right defaults, getting the linter fast, fixing wrong linter warnings and testing different linting engines for days. Only because ALE is asynchornous doesn't make it less distracting. Think back: When was the last time your created some masterpiece of code? You remember? **Did you use a linter then?** 😶
+**Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right defaults, getting the linter fast, fixing wrong linter warnings and testing different linting engines for days. Only because ALE is asynchornous doesn't make it less distracting. 
 
 ## Install and never touch your linter again
 
@@ -29,3 +29,11 @@ Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ...in their .vimrc/init.vim and don't need to touch again ALE. If you have already a line with `Plug 'w0rp/ale`, remove it. Adapt above for other plugin managers or just copy'n'paste from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim).
 
 Install all linters/fixers you want (don't mix local and global installs!) and ALE will find them. To set fixers, e.g. first Prettier, second Standard JS, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. FYI, a linter warns, a fixer fixes. This should be enough for a quick start. Further options/commands => `:help ale` but remember, you should rather be coding than reading a linter's help file. Life is too short. 😉
+
+## Still waisting time with fixing your linter?
+
+`:PlugClean` your linter. Don't tinker around.
+
+Think back: When was the last time your created some masterpiece of code? You remember? **Did you use a linter then?** 😶
+
+
