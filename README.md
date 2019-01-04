@@ -34,6 +34,6 @@ Install all linters/fixers you want (don't mix local and global installs!) and A
 
 `:PlugClean` asap. Don't tinker around. If a linter doesn't fit, it will never fit. Think back: When was the last time your created some masterpiece of code? You remember?
 
-**Did you use a linter then?** 😶
+**_Did you use a linter then?_** 😶
 
 
