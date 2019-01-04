@@ -5,7 +5,7 @@ ALE SENSIBLE is a 190-byte-long new default config for ALE fixing and overriding
 ![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50661068-3df38980-0fa2-11e9-8a6c-e657232484db.png)
 
 - **Experience a butter-smooth intuitive ALE right out of the box, PlugInstall and start** 
-- **Fix all of ALE's annoyances with one line _without_ reading miles-long docs, a +40Kbyte README or verbose help files**
+- **Fix all of ALE's annoyances with one line _without_ reading miles-long docs, a +40Kbyte README or verbose help files (this README is 3.5Kb and you won't need more)**
 - **No stuttery gutter taking space, shaking up your code, pumping in and out (the gutter is this dull grey ruler-kind of thing on the left side)**
 - **Easy quick-switching buffers/files without a laggy ALE bumping the gutter in your face; and out again (when switching to non-linted files)**
 - **No nervously blinking ALE linting/warning/flagging/messing the current line while you code (yes ALE, we know, you are asynchronous but just let me code and STFU)**
