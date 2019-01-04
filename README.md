@@ -1,13 +1,10 @@
-<img src='https://user-images.githubusercontent.com/43666255/50660194-3c749200-0f9f-11e9-8668-520662ae79d0.png' width='85%'/>
+![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50682830-6a45ef00-1010-11e9-9fad-09273faf40e5.png)
 
 **ALE SENSIBLE is a 190-byte-long new default config for ALE** fixing and overriding ALE's time-consuming default config. It provides a welcoming, stutter-free, turn-key-ready experience:
 
 - **Experience a butter-smooth intuitive ALE** right out of the box, PlugInstall and start
 - **Fix all of ALE's annoyances with one line** _without_ reading miles-long docs, a +40Kb README or verbose help files (this README is 3.5Kb and you won't need more)
 - **No more stuttery gutter taking space,** shaking up your code, pumping in and out
-
-![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50682830-6a45ef00-1010-11e9-9fad-09273faf40e5.png)
-
 - **Easy quick-switching buffers/files** without a laggy ALE bumping the gutter in your face; and out again (when switching to non-linted files)
 - **No nervously blinking ALE** linting/warning/flagging/messing the current line while you code (yes ALE, we know, you are asynchronous but just let me code and STFU)
 - **ALE SENSIBLE kicks in when it's the right time:** in Normal Mode _always_ and in Insert Mode _only_ after leaving Insert Mode, and always after 0ms, no delays
