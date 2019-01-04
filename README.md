@@ -19,7 +19,7 @@
 - **Easy remove and add** of ALE and all its config, sometimes you don't want a noisy ALE being installed
 - **Experience Vim/Neovim as what they are,** slick, minmalistic editors, not some jarring Frankenstein-IDEs
 
-**Don't waste your precious time with setting up, maintaining _a linter_,** reading its docs and asking its maintainers how to use it; _it's. just. a. linter._, move on, code and create stuff, the linter should work for you, not the way around, you are not paid to set up a linter all day long; _linters are overrated_, actually most are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines; only because ALE is asynchornous doesn't make it less distracting**
+**Don't waste your precious time with setting up, maintaining _a linter_,** reading its docs and asking its maintainers how to use it; _it's. just. a. linter._, move on, code and create stuff, the linter should work for you, not the way around, you are not paid to set up a linter all day long; _linters are overrated_, actually most are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines; only because ALE is asynchornous doesn't make it less distracting.
 
 ## Install
 
@@ -27,7 +27,7 @@
 ```
 Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ```
-...in their .vimrc/init.vim (if you have already a line with `Plug 'w0rp/ale`, remove!). Adapt above for other plugin managers or just copy'n'paste from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim)
+...in their .vimrc/init.vim (if you have already a line with `Plug 'w0rp/ale`, remove!). Adapt above for other plugin managers or just copy'n'paste from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim).
 
 Then, install all linters/fixers you want (don't mix local and global installs!) and ALE will find them. To set fixers, e.g. first Prettier, second Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. This should be enough for a quick start. Further ALE options/commands => `:help ale`.
 
