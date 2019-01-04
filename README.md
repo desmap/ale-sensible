@@ -8,9 +8,9 @@
 **Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Fix all of ALE's annoyances with one line _without_ reading bulky docs, a +40Kb README or verbose help files. This README is 2.95Kb and you won't need more:
 
 - **No more stuttery gutter** shaking up your code, pumping in and out
-- **Easy quick-switching of buffers and files** without a laggy ALE bumping the gutter in and out
+- **Easy quick-switching of buffers and files** without a laggy ALE bumping the gutter in your face
 - **No nervously blinking ALE** warning and messing in the current line while you code
-- **ALE SENSIBLE kicks in when it's right:** in Normal _always_ and in Insert Mode _only_ after leaving Insert Mode
+- **ALE SENSIBLE kicks in when it's the right time:** in Normal _always_ and in Insert _only_ after leaving Insert Mode
 - **No intentionally delayed linting**, responsive linting always after 0ms (ALE sets an extra 200ms delay)
 - **No more broken colorthemes**, no dull grey gutter anymore, ALE SENSIBLE works w/all colorthemes
 - **No bloat in .vimrc/init.vim**, no fiddling around, no trial and error, it's just one line pulling a 190-byte-plugin
