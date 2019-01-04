@@ -29,5 +29,3 @@ Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ...in their .vimrc/init.vim and don't need to touch again ALE or any linter config. If you have already a line with `Plug 'w0rp/ale`, remove it. Adapt above for other plugin managers or just copy'n'paste from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim).
 
 Then, install all linters/fixers you want (don't mix local and global installs!) and ALE will find them. To set fixers, e.g. first Prettier, second Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. This should be enough for a quick start. Further ALE options/commands => `:help ale`.
-
-<img src='https://user-images.githubusercontent.com/43666255/50660194-3c749200-0f9f-11e9-8668-520662ae79d0.png' width=20%/>
