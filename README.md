@@ -18,7 +18,7 @@
 - **Easily remove and add ALE SENSIBLE**, sometimes you want it uninstalled and `:ALEToogle' wouldn't help 
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
 
-**Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right defaults, getting the liner fast, fixing wrong linter warnings and testing different linting engines for days. Only because ALE is asynchornous doesn't make it less distracting. Think back: When was the last time your created some masterpiece of code? You remember? **Did you use a linter then?** 😶
+**Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right defaults, getting the linter fast, fixing wrong linter warnings and testing different linting engines for days. Only because ALE is asynchornous doesn't make it less distracting. Think back: When was the last time your created some masterpiece of code? You remember? **Did you use a linter then?** 😶
 
 ## Install
 
