@@ -7,19 +7,18 @@ ALE SENSIBLE is an opinionated 190-byte-long new default config for the ALE lint
 - **Experience a butter-smooth intuitive ALE right out of the box, PlugInstall and start** 
 - **Fix all of ALE's annoyances with one line without readings miles-long docs, a 40Kbyte README and verbose help files**
 - **No stuttery gutter taking space, shaking up your code, pumping in and out**
+- **Easy quick-switching of buffers/files without a laggy ALE bumping the gutter in your face; and out again (when switching to non-linted file)
 - **No nervously blinking ALE linting/warning/flagging/messing the current line while you code (yes ALE, we know, you are asynchronous but just let me code)**
 - **No intentionally delayed linting; responsive linting after 0ms (ALE set an extra delay 200ms), who wants delays?**
 - **ALE SENSIBLE kicks in when it's the right time: in Normal always and in Insert mode only after leaving Insert Mode, and always after 0ms!** 
-- **No more broken colorthemes, ALE SENSIBLE matches all colorthemes**
+- **No more broken colorthemes, no dull grey gutter anymore, ALE SENSIBLE matches all colorthemes**
 - **No bloat in .vimrc/init.vim, it's just one line pulling a tiny 190-byte-plugin**
 - **No mess with other gutter tools which are more important (e.g. git tools, markers, etc.)**
-- **Easy removal and adding back of ALE; sometimes you just don't want ALE being installed, slowing down Vim's/Neovim's startup and overall performance (and ALEToggle wouldn't help here, btw)**
+- **Easy removal and adding back of ALE; sometimes you just don't want noisy ALE being installed, slowing down Vim's/Neovim's startup and overall performance (and ALEToggle wouldn't help here, btw)**
 - **Don't waste your precious time with setting up, maintaining _a linter_ and reading its docs; it's just a linter, move on, code and create stuff, the linter should work for you, not the way around, you are not paid to set up a linter**
 - **Experience Vim/Neovim as what they are, the most minimalistic and toned-down editor on earth, not some bulky IDE with cumberome GUI elements, a jarring GUI is not the reason you use Vim/Neovim**
 
-ALE's gutter can be a bit cumbersome with its default setting. It pops in and out when quick-switching between linted and non-linted files. If you prefer a toned-down, minimalistic editor this gutter feels out of place. It has a noisy, bumpy, jarring appearance and pushes your code constantly  back and forth. Worse: There aren't any colorthemes which make the gutter pretty. So it's always dull grey and doesn't match any of your colorschemes. 
-
-To fix this and more just place...
+To fix this all just place...
 
 ```
 Plug 'desmap/ale-sensible'
