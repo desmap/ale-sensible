@@ -5,7 +5,7 @@
 ![](https://user-images.githubusercontent.com/43666255/50682830-6a45ef00-1010-11e9-9fad-09273faf40e5.png)
 
 ## Features
-**Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Fix all of ALE's annoyances with one line _without_ reading bulky docs, a 44Kb README 😬 or verbose help files. The README you're reading is 3Kb and you won't need more. Don't waste time with a linter's setup. _It's. just. a. linter._ Move on, keep on coding, create stuff. A linter should fix _your_ code, it's not the way around.
+**Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Fix all of ALE's annoyances with one line _without_ reading bulky docs, a 44Kb README 😬 or verbose help files. The README you're reading is 3Kb and you won't need more. Don't waste time with a linter's setup. _It's. just. a. linter._ Move on, keep oding, create stuff. A linter should fix _your_ code, it's not the way around.
 
 - **No more stuttery gutter** shaking up your code, pumping in and out
 - **Easy quick-switching of buffers and files** without a laggy ALE bumping the gutter in your face
@@ -28,4 +28,4 @@ Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ```
 ...in their .vimrc/init.vim and don't need to touch again ALE. If you have already a line with `Plug 'w0rp/ale`, remove it. Adapt above for other plugin managers or just copy'n'paste from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim).
 
-If you want fixers, install all linters/fixers you want (don't mix local and global installs!) and ALE will find them. To set fixers, e.g. first Prettier, second Standard JS, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. This should be enough for a quick start. Further ALE options/commands => `:help ale` but remember, you should rather be coding than reading a linter's help file. 😉
+If you want fixers, install all linters/fixers you want (don't mix local and global installs!) and ALE will find them. To set fixers, e.g. first Prettier, second Standard JS, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. This should be enough for a quick start. Further ALE options/commands => `:help ale` but remember, you should rather be coding or PlugCleaning a linter than reading a linter's help file for too long. 😉
