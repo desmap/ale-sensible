@@ -20,7 +20,7 @@
 
 **Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right settings, getting the linter fast, fixing wrong linter warnings or testing different linting engines for days. Only because ALE is asynchronous doesn't make it less distracting. 
 
-## Install and never touch your linter again
+## Install and never touch your linter again!
 
 **No more half-baken ALE,** no more time-wasting, vim-plug users just put...
 ```
