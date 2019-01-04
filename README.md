@@ -15,10 +15,10 @@
 - **No more broken colorthemes**, no dull grey gutter anymore, ALE SENSIBLE works w/all colorthemes
 - **No bloat in .vimrc/init.vim**, no fiddling around, no trial and error, it's just one line pulling a 190-byte-plugin
 - **No mess with other gutter tools** which are more important (e.g. git tools, markers)
-- **Easily remove and add** ALE SENSIBLE/the config, sometimes you want it uninstalled and ALEToogle doesn't help 
+- **Easily remove and add ALE SENSIBLE**, sometimes you want it uninstalled and `:ALEToogle' wouldn't help 
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
 
-**Don't waste your time with setting up, maintaining _linters_,** reading their docs and asking maintainers how to use it; _it's. just. a. linter._, move on, code and create stuff. The linter should work for you, not the way around. _Linters are overrated_: Actually most of us are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines. Only because ALE is asynchornous doesn't make it less distracting.
+**Don't waste your time with setting up, maintaining _linters_,** reading their docs and asking maintainers how to use it; _it's. just. a. linter._, move on, code and create stuff. The linter should work for you, not the way around. _Linters are overrated_: Actually most of us are less productive with linters than without because of 'configuration porn', fixing wrong linter warnings and testing different linting engines for days. Only because ALE is asynchornous doesn't make it less distracting.
 
 ## Install
 
@@ -28,4 +28,4 @@ Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ```
 ...in their .vimrc/init.vim and don't need to touch again ALE or any linter config. If you have already a line with `Plug 'w0rp/ale`, remove it. Adapt above for other plugin managers or just copy'n'paste from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim).
 
-Then, install all linters/fixers you want (don't mix local and global installs!) and ALE will find them. To set fixers, e.g. first Prettier, second Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. This should be enough for a quick start. Further ALE options/commands => `:help ale`.
+Then, install all linters/fixers you want (don't mix local and global installs!) and ALE will find them. To set fixers, e.g. first Prettier, second Standard, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. This should be enough for a quick start. Further ALE options/commands => `:help ale` (but remember, you should rather be coding than reading help files).
