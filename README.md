@@ -1,6 +1,6 @@
 <p align='center'><img src='https://user-images.githubusercontent.com/43666255/50660194-3c749200-0f9f-11e9-8668-520662ae79d0.png' width='65%'/></p>
 
-ALE SENSIBLE is an opinionated 190-byte-long default config for the ALE linter. It offers a welcoming, stutter-free, turn-key-ready experience:
+ALE SENSIBLE is an opinionated 190-byte-long default config for the ALE linter fixing ALE's default config. It offers a welcoming, stutter-free, turn-key-ready experience:
 
 ![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50661068-3df38980-0fa2-11e9-8a6c-e657232484db.png)
 
