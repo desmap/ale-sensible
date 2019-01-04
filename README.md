@@ -5,7 +5,7 @@
 ![](https://user-images.githubusercontent.com/43666255/50682830-6a45ef00-1010-11e9-9fad-09273faf40e5.png)
 
 ## Features
-**Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Fix all of ALE's annoyances with one line _without_ reading bulky docs, a +40Kb README or verbose help files. This README is 2.95Kb and you won't need more:
+**Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Fix all of ALE's annoyances with one line _without_ reading bulky docs, a +40Kb README or verbose help files. This README is 2.95Kb and you won't need more. Don't waste time with a linter's setup. _Tt's. just. a. linter._, move on, keep on coding and create stuff. A linter should fix _your_ code, it's not the way around.
 
 - **No more stuttery gutter** shaking up your code, pumping in and out
 - **Easy quick-switching of buffers and files** without a laggy ALE bumping the gutter in your face
@@ -18,7 +18,7 @@
 - **Easily remove and add ALE SENSIBLE**, sometimes you want it uninstalled and `:ALEToogle' wouldn't help 
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
 
-**Don't waste your time with setting up, maintaining _linters_,** reading their docs and asking maintainers how to use it; _it's. just. a. linter._, move on, code and create stuff. A linter should fix _your_ code, it's not the way around. Linters are overrated: Actually most of us are less productive with linters than without because of 'configuration porn', finding rigth defaults, getting the liner fast, fixing wrong linter warnings and testing different linting engines for days. Only because ALE is asynchornous doesn't make it less distracting.
+**Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right defaults, getting the liner fast, fixing wrong linter warnings and testing different linting engines for days. Only because ALE is asynchornous doesn't make it less distracting.
 
 ## Install
 
