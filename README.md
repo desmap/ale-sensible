@@ -15,7 +15,7 @@
 - **No more broken colorthemes**, no dull grey gutter anymore, ALE SENSIBLE works w/all colorthemes
 - **No bloat in .vimrc/init.vim**, no fiddling around, no trial and error, it's just one line pulling a 190-byte-plugin
 - **No mess with other gutter tools** which are more important (e.g. git tools, markers)
-- **1step remove/add back of ALE SENSIBLE + its config**, sometimes you want it uninstalled and `:ALEToogle` won't help 
+- **1step remove/add back ALE SENSIBLE & its config**, sometimes you want it uninstalled and `:ALEToogle` won't help 
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
 
 **Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right defaults, getting the linter fast, fixing wrong linter warnings and testing different linting engines for days. Only because ALE is asynchornous doesn't make it less distracting. 
