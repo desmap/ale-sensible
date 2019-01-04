@@ -6,8 +6,8 @@
 
 
 # Features
-- **Experience a butter-smooth intuitive ALE** right out of the box, PlugInstall and start
-- **Fix all of ALE's annoyances with one line** _without_ reading miles-long docs, a +40Kb README or verbose help files (this README is 3.5Kb and you won't need more)
+**Experience a butter-smooth intuitive ALE** right out of the box, PlugInstall and start. Fix all of ALE's annoyances with one line _without_ reading miles-long docs, a +40Kb README or verbose help files (this README is 3.5Kb and you won't need more):
+
 - **No more stuttery gutter taking space,** shaking up your code, pumping in and out
 - **Easy quick-switching buffers/files** without a laggy ALE bumping the gutter in your face; and out again (when switching to non-linted files)
 - **No nervously blinking ALE** linting/warning/flagging/messing the current line while you code (yes ALE, we know, you are asynchronous but just let me code and STFU)
@@ -18,7 +18,8 @@
 - **No mess with other gutter tools** which are way more important (e.g. git tools, markers, etc.)**
 - **Easy removal and adding back** of ALE and all its config from your config file; sometimes you just don't want noisy ALE being installed, slowing down Vim's/Neovim's startup and overall performance (and ALEToggle wouldn't help here, btw)**
 - **Experience Vim/Neovim as what they are,** the slickest, most minimalistic and toned-down editor on earth, not some bulky IDE with cumberome GUI elements; a jarring GUI is not the reason you chose Vim/Neovim, don't turn them into some Frankenstein-IDE**
-- **Don't waste your precious time with setting up, maintaining _a linter_,** reading its docs and asking its maintainers how to use it; _it's. just. a. linter._, move on, code and create stuff, the linter should work for you, not the way around, you are not paid to set up a linter all day long; _linters are overrated_, actually most are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines; only because ALE is asynchornous doesn't make it less distracting**
+
+**Don't waste your precious time with setting up, maintaining _a linter_,** reading its docs and asking its maintainers how to use it; _it's. just. a. linter._, move on, code and create stuff, the linter should work for you, not the way around, you are not paid to set up a linter all day long; _linters are overrated_, actually most are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines; only because ALE is asynchornous doesn't make it less distracting**
 
 # Install
 
