@@ -1,25 +1,24 @@
 <img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=45%/>
 
-**ALE SENSIBLE is a 190-byte-long new default config for ALE fixing and overriding ALE's time-consuming default config. It provides a welcoming, stutter-free, turn-key-ready experience.**
+**ALE SENSIBLE is a 190-byte-long new default for ALE overriding ALE's time-consuming default config. It offers a welcoming, stutter-free, turn-key-ready experience.**
 
-![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50682830-6a45ef00-1010-11e9-9fad-09273faf40e5.png)
-
+![](https://user-images.githubusercontent.com/43666255/50682830-6a45ef00-1010-11e9-9fad-09273faf40e5.png)
 
 ## Features
-**Experience a butter-smooth intuitive ALE** right out of the box, PlugInstall and start. Fix all of ALE's annoyances with one line _without_ reading miles-long docs, a +40Kb README or verbose help files (this README is 3.5Kb and you won't need more):
+**Experience a butter-smooth intuitive ALE** out of the box, PlugInstall and code. Fix all of ALE's annoyances with one line _without_ reading bulky docs, a +40Kb README or verbose help files--this README is 2.9Kb and you won't need more:
 
-- **No more stuttery gutter taking space,** shaking up your code, pumping in and out
-- **Easy quick-switching buffers/files** without a laggy ALE bumping the gutter in and out
-- **No nervously blinking ALE** warning and messing the current line while you code
-- **ALE SENSIBLE kicks in when it's the right:** in Normal _always_ and in Insert Mode _only_ after leaving Insert Mode
-- **No intentionally delayed linting;** responsive linting after 0ms (ALE sets an extra 200ms delay?)
-- **No more broken colorthemes,** no dull grey gutter anymore, ALE SENSIBLE works w/all colorthemes
-- **No bloat in .vimrc/init.vim,** no fiddling around, it's just one line pulling a tiny 190-byte-plugin
-- **No mess with other gutter tools** which are way more important (e.g. git tools, markers, etc.)
-- **Easy remove and add** of ALE and all its config, sometimes you don't want a noisy ALE being installed
-- **Experience Vim/Neovim as what they are,** slick, minmalistic editors, not some jarring Frankenstein-IDEs
+- **No more stuttery gutter**, shaking up your code, pumping in and out
+- **Easy quick-switching of buffers and files** without a laggy ALE bumping the gutter in and out
+- **No nervously blinking ALE** warning and messing in the current line while you code
+- **ALE SENSIBLE kicks in when it's right:** in Normal _always_ and in Insert Mode _only_ after leaving Insert Mode
+- **No intentionally delayed linting**, responsive linting always after 0ms (ALE sets an extra 200ms delay)
+- **No more broken colorthemes**, no dull grey gutter anymore, ALE SENSIBLE works w/all colorthemes
+- **No bloat in .vimrc/init.vim**, no fiddling around, no trial and error, it's just one line pulling a 190-byte-plugin
+- **No mess with other gutter tools** which are more important (e.g. git tools, markers)
+- **Easily remove and add** ALE SENSIBLE and its config in one step, sometimes you don't want it to be installed
+- **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
 
-**Don't waste your precious time with setting up, maintaining _a linter_,** reading its docs and asking its maintainers how to use it; _it's. just. a. linter._, move on, code and create stuff, the linter should work for you, not the way around, you are not paid to set up a linter all day long; _linters are overrated_, actually most are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines; only because ALE is asynchornous doesn't make it less distracting.
+**Don't waste your time with setting up, maintaining _linters_,** reading their docs and asking their maintainers how to use it; _it's. just. a. linter._, move on. Code and create stuff. The linter should work for you, not the way around. You are not paid to set up a linter all day long. _Linters are overrated_: Actually most of us are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines. Only because ALE is asynchornous doesn't make it less distracting.
 
 ## Install
 
