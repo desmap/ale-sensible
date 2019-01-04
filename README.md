@@ -15,7 +15,7 @@ ALE SENSIBLE is an opinionated 190-byte-long new default config for the ALE lint
 - **No bloat in .vimrc/init.vim, it's just one line pulling a tiny 190-byte-plugin**
 - **No mess with other gutter tools which are more important (e.g. git tools, markers, etc.)**
 - **Easy removal and adding back of ALE; sometimes you just don't want noisy ALE being installed, slowing down Vim's/Neovim's startup and overall performance (and ALEToggle wouldn't help here, btw)**
-- **Don't waste your precious time with setting up, maintaining _a linter_ and reading its docs; it's just _a linter_, move on, code and create stuff, the linter should work for you, not the way around, you are not paid to set up a linter all day long**
+- **Don't waste your precious time with setting up, maintaining _a linter_ and reading its docs; it's just _a linter_, move on, code and create stuff, the linter should work for you, not the way around, you are not paid to set up a linter all day long, actually most are less productive with linters than without because of the _configuration porn_**
 - **Experience Vim/Neovim as what they are, the most minimalistic and toned-down editor on earth, not some bulky IDE with cumberome GUI elements, a jarring GUI is not the reason you chose Vim/Neovim, don't turn them into some Frankenstein-IDE**
 
 To fix this all just place...
