@@ -15,7 +15,7 @@ ALE SENSIBLE is an opinionated 190-byte-long new default config for the ALE lint
 - **No mess with other gutter tools which are more important (e.g. git tools, markers, etc.)**
 - **Easy removal and adding back of ALE; sometimes you just don't want ALE being installed, slowing down Vim's/Neovim's startup and overall performance (and ALEToggle wouldn't help here, btw)**
 - **Don't waste your precious time with setting up, maintaining _a linter_ and reading its docs; code and create stuff, the linter should work for you, not the way around**
-- **Experience Vim/Neovim as what they are, the most minimalistic and toned-down editor on earth, not some bulky IDE with cumberome GUI elements**
+- **Experience Vim/Neovim as what they are, the most minimalistic and toned-down editor on earth, not some bulky IDE with cumberome GUI elements, a GUI is not the reason you use Vim/Neovim**
 
 ALE's gutter can be a bit cumbersome with its default setting. It pops in and out when quick-switching between linted and non-linted files. If you prefer a toned-down, minimalistic editor this gutter feels out of place. It has a noisy, bumpy, jarring appearance and pushes your code constantly  back and forth. Worse: There aren't any colorthemes which make the gutter pretty. So it's always dull grey and doesn't match any of your colorschemes. 
 
