@@ -5,7 +5,7 @@
 ![](https://user-images.githubusercontent.com/43666255/50682830-6a45ef00-1010-11e9-9fad-09273faf40e5.png)
 
 ## Features
-**Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Fix all of ALE's annoyances with one line _without_ reading bulky docs, a +40Kb README or verbose help files. This README is 2.95Kb and you won't need more. Don't waste time with a linter's setup. _Tt's. just. a. linter._, move on, keep on coding and create stuff. A linter should fix _your_ code, it's not the way around.
+**Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Fix all of ALE's annoyances with one line _without_ reading bulky docs, a +40Kb README or verbose help files. This README is 2.95Kb and you won't need more. Don't waste time with a linter's setup. _It's. just. a. linter._Move on, keep on coding and create stuff. A linter should fix _your_ code, it's not the way around.
 
 - **No more stuttery gutter** shaking up your code, pumping in and out
 - **Easy quick-switching of buffers and files** without a laggy ALE bumping the gutter in your face
