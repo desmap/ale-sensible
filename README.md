@@ -9,7 +9,7 @@
 
 - **No more stuttery, jumpy gutter** shaking up your code, pumping the screen in and out
 - **Easy quick-switching of buffers** without a laggy ALE bumping the gutter in your face
-- **No nervous ALE** blinking, warning and messing in the current line while you (try to) code
+- **No nervous ALE blinking, warning and messing** in the current line while you (try to) code
 - **ALE SENSIBLE kicks in when it's the right time:** in Normal _always_ and in Insert _only_ after leaving Insert Mode
 - **No intentionally delayed linting**, responsive linting always after 0ms (ALE sets an extra 200ms delay)
 - **No more broken colorthemes**, no dull grey gutter anymore, ALE SENSIBLE works w/all colorthemes
