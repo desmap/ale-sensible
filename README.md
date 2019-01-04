@@ -1,4 +1,4 @@
-<img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=60%/>
+<img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=45%/>
 
 **ALE SENSIBLE is a 190-byte-long new default config for ALE fixing and overriding ALE's time-consuming default config. It provides a welcoming, stutter-free, turn-key-ready experience.**
 
@@ -17,7 +17,7 @@
 - **No bloat in .vimrc/init.vim,** no fiddling around, it's just one line pulling a tiny 190-byte-plugin**
 - **No mess with other gutter tools** which are way more important (e.g. git tools, markers, etc.)**
 - **Easy remove and add** of ALE and all its config, sometimes you don't want a noisy ALE being installed**
-- **Experience Vim/Neovim as what they are,** the slickest, most minimalistic, toned-down editor, not some jarring Frankenstein-IDE**
+- **Experience Vim/Neovim as what they are,** slick, minmalistic editors, not some jarring Frankenstein-IDEs**
 
 **Don't waste your precious time with setting up, maintaining _a linter_,** reading its docs and asking its maintainers how to use it; _it's. just. a. linter._, move on, code and create stuff, the linter should work for you, not the way around, you are not paid to set up a linter all day long; _linters are overrated_, actually most are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines; only because ALE is asynchornous doesn't make it less distracting**
 
