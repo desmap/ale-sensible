@@ -18,7 +18,7 @@ ALE SENSIBLE is a 190-byte-long new default config for ALE fixing and overriding
 - **Experience Vim/Neovim as what they are, the slickest, most minimalistic and toned-down editor on earth, not some bulky IDE with cumberome GUI elements; a jarring GUI is not the reason you chose Vim/Neovim, don't turn them into some Frankenstein-IDE**
 - **Don't waste your precious time with setting up, maintaining _a linter_ and reading its docs; _it's just a linter_, move on, code and create stuff, the linter should work for you, not the way around, you are not paid to set up a linter all day long, actually most are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines; only because ALE is asynchornous doesn't make it less distracting**
 
-To fix this all just place...`
+No more half-baken ALE, no more time-wasting, just place...`
 ```
 Plug 'desmap/ale-sensible'
 ```
