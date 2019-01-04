@@ -5,7 +5,7 @@
 ![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50682830-6a45ef00-1010-11e9-9fad-09273faf40e5.png)
 
 
-# Features
+## Features
 **Experience a butter-smooth intuitive ALE** right out of the box, PlugInstall and start. Fix all of ALE's annoyances with one line _without_ reading miles-long docs, a +40Kb README or verbose help files (this README is 3.5Kb and you won't need more):
 
 - **No more stuttery gutter taking space,** shaking up your code, pumping in and out
@@ -21,7 +21,7 @@
 
 **Don't waste your precious time with setting up, maintaining _a linter_,** reading its docs and asking its maintainers how to use it; _it's. just. a. linter._, move on, code and create stuff, the linter should work for you, not the way around, you are not paid to set up a linter all day long; _linters are overrated_, actually most are less productive with linters than without because of the 'configuration porn', fixing wrong linter warnings and testing different linting engines; only because ALE is asynchornous doesn't make it less distracting**
 
-# Install
+## Install
 
 **No more half-baken ALE,** no more time-wasting, vim-plug users just put...
 ```
