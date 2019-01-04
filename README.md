@@ -5,7 +5,7 @@ ALE SENSIBLE is an opinionated 190-byte-long new default config for the ALE lint
 ![ALE vs ALE SENSIBLE](https://user-images.githubusercontent.com/43666255/50661068-3df38980-0fa2-11e9-8a6c-e657232484db.png)
 
 - **Experience a butter-smooth intuitive ALE right out of the box, PlugInstall and start** 
-- **Fix all of ALE's annoyances with one line without readings tons of docs**
+- **Fix all of ALE's annoyances with one line without readings tons of docs, a miles-long README and verbose help files**
 - **No stuttery gutter taking space, shaking up your code, pumping in and out**
 - **No nervously blinking ALE linting/warning/flagging/messing the current line while you code**
 - **No intentionally delayed linting; responsive linting after 0ms in Normal or 0ms after leaving Insert Mode** 
