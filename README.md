@@ -12,7 +12,7 @@
 - **No nervous ALE blinking, warning and messing** in the current line while you (try to) code
 - **ALE SENSIBLE kicks in when it's the right time:** in Normal _always_ and in Insert _only_ after leaving Insert Mode
 - **No intentionally delayed linting**, responsive linting always after 0ms (ALE sets an extra 200ms delay)
-- **No more broken colorthemes**, no dull grey gutter anymore, ALE SENSIBLE works w/all colorthemes
+- **No more broken colorthemes**, no dull grey gutter anymore, ALE SENSIBLE works with _all_ your colorthemes
 - **No bloat in your .vimrc/init.vim**, no fiddling around, no trial and error, it's just one line pulling a 190-byte-plugin
 - **No mess with other gutter tools** which are more important (e.g. git tools, markers)
 - **1step remove/add back ALE SENSIBLE & its config**, sometimes you want it uninstalled and `:ALEToggle` won't help 
