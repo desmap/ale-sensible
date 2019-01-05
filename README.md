@@ -8,7 +8,7 @@
 **Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Fix all of ALE's annoyances with one line _without_ reading bulky docs, a 44Kb README 😬 or verbose help files. The README you're reading now is mere 3Kb and you won't need more. Don't waste time with a linter's setup and docs. _It's. just. a. linter._ Move on, keep coding, create stuff, play Fortnite, get wasted but do not fix your linter. A linter should fix _your_ code.
 
 - **No more stuttery, jumpy gutter** shaking up your code, pumping the screen in and out
-- **Easy quick-switching of buffers** without a laggy ALE bumping the gutter in your face
+- **Easy quick-switching of buffers** without a laggy ALE bumping the gutter in your face, two seconds after switching
 - **No nervous ALE blinking, warning and messing** in the current line while you (try to) code
 - **ALE SENSIBLE kicks in when it's the right time:** in Normal _always_ and in Insert _only_ after leaving Insert Mode
 - **No intentionally delayed linting**, responsive linting always after 0ms (ALE sets an extra 200ms delay)
