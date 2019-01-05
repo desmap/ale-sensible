@@ -30,7 +30,7 @@ Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 
 Install all linters/fixers you want (don't mix local and global installs!) and ALE will find them. To set fixers, e.g. first Prettier, second Standard JS, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. FYI, a linter warns, a fixer fixes. This should be enough for a quick start. Further options/commands => `:help ale` but remember, you should rather be coding than reading a linter's help file. Life is too short. 😉
 
-## Still waisting time fixing your linter? PlugClean asap!
+## Still waisting time fixing your linter? PlugClean!
 
 Don't tinker around. If a linter doesn't fit, it will never fit. Think back: When was the last time your created some masterpiece of code? You remember? **Did you use a linter then?** 😶
 
