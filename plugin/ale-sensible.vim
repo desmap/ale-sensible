@@ -21,7 +21,7 @@ let g:ale_lint_delay = 0
 let g:ale_completion_enabled=1
 
 " ...and put it on Tab
-imap <Tab> <Plug>(ale_complete)
+inoremap <silent> <Tab> <C-x><C-o>
 
 " Renew colors for marked lines to sane, readable combinations working for every
 " colorscheme
