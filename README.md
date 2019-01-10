@@ -3,7 +3,7 @@
 **ALE SENSIBLE–sensible defaults for ALE in a tiny 250-byte-plugin.  
 Enjoy a welcoming, stutter-free, turn-key linter.**
 
-## It looks great with EVERY colortheme, dark and light ones:
+## It looks great with _every_ colortheme, dark and light ones:
 
 <img src='https://user-images.githubusercontent.com/43666255/50975662-6cb3b780-14ee-11e9-84c4-97e2b3e18645.png' width=100%/>
 
