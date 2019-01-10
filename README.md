@@ -39,6 +39,8 @@ Plugin 'desmap/ale-sensible' | Plugin 'w0rp/ale'
 ```
 ...in your .vimrc/init.vim, run `:PlugInstall`. 
 
+## Final steps and you are ready to go
+
 ### Remove redundant plugins and autocompletes
 If you have already a line with `'w0rp/ale'`, remove this line. Also remove all your autocomplete plugins, ALE brings a great one along which is mapped to `<Tab>` in Insert Mode. If you want to use another autocomplete just keep the `<Tab>` remapping to that other one in your config, it will overwrite ALE's one. Why it might make sense to use ALE's autocomplete: It's built in, uses the same core and is well maintained, why install something twice? Supertab doesn't seem to be maintained anymore, YouCompleteMe and Deoplete need further dependencies and are much heavier.
 
