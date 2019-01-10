@@ -41,6 +41,6 @@ Install your desired linter/fixer engines, e.g. Prettier and Standard JS (don't 
 
 ## Still waisting time fixing your linter? PlugClean!
 
-Don't tinker around. If a linter doesn't fit, it will never fit. Think back: When was the last time your created some masterpiece of code? You remember? **Did you use a linter then?** 😶
+Don't tinker around. If a linter doesn't fit, it will never fit. Think back: When was the last time your created some masterpiece of code? Do you remember? **Did you use a linter then?** 😶
 
 
