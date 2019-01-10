@@ -3,7 +3,7 @@
 **ALE SENSIBLE–sensible defaults for ALE in a tiny 250-byte-plugin.  
 Enjoy a welcoming, stutter-free, turn-key linter.**
 
-<img src='https://user-images.githubusercontent.com/43666255/50975466-f6af5080-14ed-11e9-9c48-bac8b8c65a97.png' width=100%/>
+<img src='https://user-images.githubusercontent.com/43666255/50975662-6cb3b780-14ee-11e9-84c4-97e2b3e18645.png' width=100%/>
 
 ## ALE SENSIBLE vs ALE
 **Experience a butter-smooth intuitive UI out of the box**, PlugInstall and code. Set sensible defaults for ALE without reading bulky docs, a 44Kb README 😬 or tons of help files. The README you're reading now is mere 3Kb and you won't need more. Don't waste time with a linter's setup and docs. It's. just. a. linter. Move on, keep coding, create stuff, play Fortnite, get wasted but do not fix your linter, it's the way around.
