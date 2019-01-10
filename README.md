@@ -16,7 +16,7 @@
 - **ALE SENSIBLE kicks in when it's the right time:** in Normal always and in Insert only after leaving Insert Mode
 - **No intentionally delayed linting**, responsive linting always after 0ms (ALE sets an extra 200ms delay)
 - **No more broken colorthemes**, no dull grey gutter anymore, ALE SENSIBLE works with _all_ your colorthemes
-- **No bloat in your .vimrc/init.vim**, no fiddling around, no trial and error, it's just one line pulling a 250-byte-plugin
+- **No bloat in your .vimrc/init.vim**, no fiddling around, no trial and error, it's just one line
 - **No mess with other gutter tools** which are more important (e.g. git tools, markers)
 - **One-step one-line remove and add back** of ALE SENSIBLE and its config
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
