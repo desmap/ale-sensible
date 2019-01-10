@@ -14,7 +14,7 @@
 - **No nervous ALE blinking and warning for the current line** while you type and try to code
 - **Intuitve highlighting there where you expect**, right in the lines where errors are and not somewhere outside 
 - **Non-obstrusive highlighting**, lines are still easy to read and edit
-- **ALE SENSIBLE kicks in when it's the right time:** in Normal always and in Insert only after leaving Insert Mode
+- **Kicks in when it's the right:** in Normal Mode always and in Insert Mode only after leaving Insert Mode
 - **No intentionally delayed linting**, responsive linting always after 0ms (ALE sets an extra 200ms delay)
 - **No more broken colorthemes**, no dull grey gutter anymore, ALE SENSIBLE works with _all_ your colorthemes
 - **No bloat in your .vimrc/init.vim**, no fiddling around, no trial and error, it's just one line
