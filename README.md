@@ -24,11 +24,16 @@ Enjoy a welcoming, stutter-free, turn-key linter.**
 
 ## Install and never touch your linter again!
 
-**No more half-baken ALE,** no more time-wasting, vim-plug users just put...
+**No more half-baken ALE,** no more time-wasting, just put...
+### vim-plug
 ```
 Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ```
-...in their .vimrc/init.vim and don't need to touch ALE again. If you have already a line with `Plug 'w0rp/ale'`, remove it. Adapt above for other plugin managers or just copy'n'paste from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim).
+### Vundle
+```
+Plugin 'desmap/ale-sensible' | Plugin 'w0rp/ale'
+```
+...in their .vimrc/init.vim and don't need to touch ALE again. If you have already a line with `'w0rp/ale'`, remove it. Adapt above for other plugin managers or just copy'n'paste from [ale-sensible.vim](https://github.com/desmap/ale-sensible/blob/master/plugin/ale-sensible.vim).
 
 Install your desired linter/fixer engines, e.g. Prettier and Standard JS (don't mix local and global installs) and ALE will find them. To set fixers, e.g. first Prettier, second Standard JS, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. FYI, a linter warns, a fixer fixes. This should be enough for a quick start. Further options/commands => `:help ale` but remember, you should rather be coding than reading a linter's help file. Life is too short. 😉
 
