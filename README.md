@@ -4,7 +4,7 @@
 
 ## Gutter-free and slick with all colorthemes, dark or light ones:
 
-_Example color themes:_
+_Example, random color themes:_
 
 <img src='https://user-images.githubusercontent.com/43666255/50975662-6cb3b780-14ee-11e9-84c4-97e2b3e18645.png' width=100%/>
 
