@@ -44,8 +44,7 @@ If you have already a line with `'w0rp/ale'`, remove this line. Also remove all 
 ### Install linter/fixer engines
 Install your desired linter/fixer engines, e.g. Prettier and Standard JS (don't mix local and global installs) and ALE will find them. To set fixers, e.g. first Prettier, second Standard JS, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. FYI, a linter warns, a fixer fixes. This should be enough for a quick start. Further options/commands => `:help ale` but remember, you should rather be coding than reading a linter's help file. Life is too short and coding is more fun. 😉
 
-## Still waisting time fixing your linter? PlugClean!
-
-Don't tinker around. If a linter doesn't fit, it will never fit. Think back: When was the last time your created some masterpiece of code? Do you remember? **Did you use a linter then?** 😶
+### Join the discussion
+Still think some default is missing, open a pull request!
 
 
