@@ -1,6 +1,6 @@
 <img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=25%/>
 
-**ALE SENSIBLE–sensible defaults for ALE in a tiny plugin. Enjoy a welcoming, stutter-free, turn-key linter.**
+**ALE SENSIBLE–sensible defaults for ALE as a tiny plugin. Enjoy a welcoming, stutter-free and turn-key linter.**
 
 ## Gutter-free and awesome with all colorthemes, dark and light ones:
 
