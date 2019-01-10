@@ -10,8 +10,8 @@
 **Experience a butter-smooth intuitive UI out of the box**, PlugInstall and code. Set sensible defaults for ALE without reading bulky docs, a 44Kb README 😬 or tons of help files. The README you're reading now is mere 3Kb and you won't need more. Don't waste time with a linter's setup and docs. It's. just. a. linter. Move on, keep coding, create stuff, play Fortnite but do not fix your linter, it should be the way around.
 
 - **No more stuttery, jumpy sign column/gutter** shaking up your code, pumping the screen in and out
-- **Easy quick-switching of buffers** without laggy linter engines bumping the gutter in your face two seconds after switching
-- **No nervous ALE blinking and warning for the current line** while you type and try to code
+- **Easy quick-switching of buffers** without laggy linter engines bumping the gutter in your face two seconds later
+- **No nervous ALE blinking and sending warnings for the current line** while you type and try to code
 - **Intuitve highlighting there where you expect**, right in the lines where errors are and not somewhere outside 
 - **Non-obstrusive highlighting**, lines are still easy to read and edit
 - **Kicks in when it's the right:** in Normal Mode always and in Insert Mode only after leaving Insert Mode
