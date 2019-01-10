@@ -15,6 +15,7 @@ _Example, random color themes_
 - **Easy quick-switching of buffers** without laggy linter engines bumping the gutter in your face two seconds after switching
 - **No nervous ALE blinking and warning for the current line** while you type and try to code
 - **Intuitve highlighting where you expect it**, right in the lines where errors are and not somewhere outside in the gutter 
+- **Non-obstrusive highlighting**, lines are still easy to read and edit
 - **ALE SENSIBLE kicks in when it's the right time:** in Normal always and in Insert only after leaving Insert Mode
 - **No intentionally delayed linting**, responsive linting always after 0ms (ALE sets an extra 200ms delay)
 - **No more broken colorthemes**, no dull grey gutter anymore, ALE SENSIBLE works with _all_ your colorthemes
