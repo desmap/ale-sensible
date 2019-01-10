@@ -7,7 +7,7 @@
 <img src='https://user-images.githubusercontent.com/43666255/50975662-6cb3b780-14ee-11e9-84c4-97e2b3e18645.png' width=100%/>
 
 ## ALE SENSIBLE vs ALE–save time and feel good again
-**Experience a butter-smooth intuitive UI out of the box**, PlugInstall and code. Set sensible defaults for ALE without reading bulky docs, a 44Kb README 😬 or tons of help files. The README you're reading now is mere 3Kb and you won't need more. Don't waste time with a linter's setup and docs. It's. just. a. linter. Move on, keep coding, create stuff, play Fortnite but do not fix your linter, it should be the way around.
+**Experience a butter-smooth intuitive UI out of the box**, PlugInstall and code. Set sensible defaults for ALE without reading bulky docs, a 44Kb README 😬 or tons of help files. The README you're reading now is mere 4Kb and you won't need more. Don't waste time with a linter's setup and docs. It's. just. a. linter. Move on, keep coding, create stuff, play Fortnite but do not fix your linter, it should be the way around.
 
 - **No more stuttery, jumpy sign column/gutter** shaking up your code, pumping the screen in and out
 - **Easy quick-switching of buffers** without laggy linter engines bumping the gutter in your face two seconds later
@@ -45,6 +45,6 @@ If you have already a line with `'w0rp/ale'`, remove this line. Also remove all 
 Install your desired linter/fixer engines, e.g. Prettier and Standard JS (don't mix local and global installs) and ALE will find them. To set fixers, e.g. first Prettier, second Standard JS, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. FYI, a linter warns, a fixer fixes. This should be enough for a quick start. Further options/commands => `:help ale` but remember, you should rather be coding than reading a linter's help file. Life is too short and coding is more fun. 😉
 
 ### Join the discussion
-Still think some default is missing, open a pull request!
+Still think some sensible default is missing? Open a pull request!
 
-
+_MIT License, Copyright (c) 2019 desmap_
