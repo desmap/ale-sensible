@@ -11,7 +11,7 @@
 
 - **No more stuttery, jumpy sign column/gutter** shaking up your code, pumping the screen in and out
 - **Easy quick-switching of buffers** without laggy linter engines bumping the gutter in your face two seconds later
-- **No nervous ALE blinking and sending warnings for the current line** while you type and try to code
+- **No nervous ALE blinking and sending false warnings for the current line** while you type and try to code
 - **Intuitve highlighting there where you expect**, right in the lines where errors are and not somewhere outside 
 - **Non-obstrusive highlighting**, lines are still easy to read and edit
 - **Kicks in when it's the right:** in Normal Mode always and in Insert Mode only after leaving Insert Mode
