@@ -12,7 +12,7 @@
 - **No more stuttery, jumpy sign column/gutter** shaking up your code, pumping the screen in and out
 - **Easy quick-switching of buffers** without laggy linter engines bumping the gutter in your face two seconds after switching
 - **No nervous ALE blinking and warning for the current line** while you type and try to code
-- **Intuitve highlighting where you expect it**, right in the lines where errors are and not somewhere outside in the gutter 
+- **Intuitve highlighting there where you expect**, right in the lines where errors are and not somewhere outside 
 - **Non-obstrusive highlighting**, lines are still easy to read and edit
 - **ALE SENSIBLE kicks in when it's the right time:** in Normal always and in Insert only after leaving Insert Mode
 - **No intentionally delayed linting**, responsive linting always after 0ms (ALE sets an extra 200ms delay)
