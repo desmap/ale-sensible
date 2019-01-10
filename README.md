@@ -2,7 +2,7 @@
 
 **ALE SENSIBLE–sensible defaults for ALE as a tiny plugin. Enjoy a welcoming, stutter-free and turn-key linter.**
 
-## Gutter-free and slick with all colorthemes, dark or light ones:
+## Gutter-free and slick with all colorthemes, dark or light ones
 
 <img src='https://user-images.githubusercontent.com/43666255/50975662-6cb3b780-14ee-11e9-84c4-97e2b3e18645.png' width=100%/>
 
