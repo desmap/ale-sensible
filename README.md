@@ -8,7 +8,7 @@ It's a welcoming, stutter-free, turn-key linter.**
 ## ALE SENSIBLE vs ALE
 **Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Set sensible defaults for ALE _without_ reading bulky docs, a 44Kb README 😬 or tons of help files. The README you're reading now is mere 3Kb and you won't need more. Don't waste time with a linter's setup and docs. _It's. just. a. linter._ Move on, keep coding, create stuff, play Fortnite, get wasted but do not fix your linter. The linter should fix _your_ code.
 
-- **No more stuttery, jumpy gutter** shaking up your code, pumping the screen in and out
+- **No more stuttery, jumpy sign column/gutter** shaking up your code, pumping the screen in and out
 - **Easy quick-switching of buffers** without laggy linter engines bumping the gutter in your face two seconds after switching
 - **No nervous ALE blinking, warning and messing** in the current line while you (try to) code
 - **ALE SENSIBLE kicks in when it's the right time:** in Normal _always_ and in Insert _only_ after leaving Insert Mode
@@ -16,7 +16,8 @@ It's a welcoming, stutter-free, turn-key linter.**
 - **No more broken colorthemes**, no dull grey gutter anymore, ALE SENSIBLE works with _all_ your colorthemes
 - **No bloat in your .vimrc/init.vim**, no fiddling around, no trial and error, it's just one line pulling a 190-byte-plugin
 - **No mess with other gutter tools** which are more important (e.g. git tools, markers)
-- **1step remove/add back ALE SENSIBLE & its config**, sometimes you want it uninstalled and `:ALEToggle` won't help 
+- **1step remove/add back ALE SENSIBLE & its config**, no scattering of your config with ALE configuration
+- **Intuitve highlighting where the errors is**, within a line and in the sign column/gutter 
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
 
 **Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right settings, getting the linter fast, fixing wrong linter warnings or testing different linting engines for days. Only because ALE is asynchronous doesn't make it less distracting. 
