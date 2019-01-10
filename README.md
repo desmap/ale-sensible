@@ -50,4 +50,4 @@ Install your desired linter/fixer engines, e.g. Prettier and Standard JS (don't 
 ### Join the discussion
 Still think some sensible defaults are missing? Open a pull request!
 
-_MIT License, Copyright (c) 2019 desmap_
+_ALE SENSIBLE, MIT License, Copyright (c) 2019 desmap_
