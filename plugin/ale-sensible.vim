@@ -5,7 +5,7 @@
 " 
 " Copyright (c) 2019 desmap, <desmap@yandex.com>, https://github.com/desmap/ale-sensible
 
-" Removes the sign column/gutter
+" Remove the sign column/gutter
 let g:ale_set_signs = 0
 
 " Lint always in Normal Mode
