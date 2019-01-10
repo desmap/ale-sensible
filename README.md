@@ -3,7 +3,7 @@
 **ALE SENSIBLE–sensible defaults for ALE in a tiny 250-byte-plugin.  
 Enjoy a welcoming, stutter-free, turn-key linter.**
 
-## It looks great with EVERY colortheme out of the box:
+## It looks great with EVERY colortheme, dark and light ones:
 
 <img src='https://user-images.githubusercontent.com/43666255/50975662-6cb3b780-14ee-11e9-84c4-97e2b3e18645.png' width=100%/>
 
@@ -13,7 +13,7 @@ Enjoy a welcoming, stutter-free, turn-key linter.**
 - **No more stuttery, jumpy sign column/gutter** shaking up your code, pumping the screen in and out
 - **Easy quick-switching of buffers** without laggy linter engines bumping the gutter in your face two seconds after switching
 - **No nervous ALE blinking and warning for the current line** while you type and try to code
-- **Intuitve highlighting where you expect it**, right in the lines where errors are and not somewhere in the gutter 
+- **Intuitve highlighting where you expect it**, right in the lines where errors are and not somewhere outside in the gutter 
 - **ALE SENSIBLE kicks in when it's the right time:** in Normal always and in Insert only after leaving Insert Mode
 - **No intentionally delayed linting**, responsive linting always after 0ms (ALE sets an extra 200ms delay)
 - **No more broken colorthemes**, no dull grey gutter anymore, ALE SENSIBLE works with _all_ your colorthemes
