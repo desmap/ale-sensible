@@ -1,6 +1,6 @@
 <img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=25%/>
 
-**`:PlugInstall` sensible defaults for ALE and enjoy a welcoming, turn-key linter.**
+**`:PlugInstall` sensible defaults for ALE and enjoy a welcoming, turn-key linter and autocomplete.**
 
 ## Gutter-free, clean and slick with EVERY colortheme
 
@@ -21,22 +21,27 @@
 - **No mess with other sign-column/gutter tools** which are more important (e.g. git tools, markers)
 - **One-step removal and adding back** of ALE SENSIBLE, ALE and their configuration, if `:ALEToggle` is not enough
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
+- **Autocomplete works out of the box and is mapped to `<Tab>`** and can be overwritten if another autocomplete is used
 
 **Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right settings, getting the linter fast, fixing wrong linter warnings or testing different linting engines for days. Only because ALE is asynchronous doesn't make it less distracting. 
 
 ## Install and never touch your linter again
 
 **No more half-baken ALE,** no more time-wasting, just put...
-### vim-plug
+### Install with vim-plug
 ```
 Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ```
-### Vundle
+### Install with Vundle
 ```
 Plugin 'desmap/ale-sensible' | Plugin 'w0rp/ale'
 ```
-...in your .vimrc/init.vim, run `:PlugInstall`. If you have already a line with `'w0rp/ale'`, remove this line.
+...in your .vimrc/init.vim, run `:PlugInstall`. 
 
+### Remove redundant plugins
+If you have already a line with `'w0rp/ale'`, remove this line. Also remove all your autocomplete plugins, ALE brings a great one along which you use with `<Tab>` in Insert Mode. If you want to use another autocomplete just keep the `<Tab>` remapping to that other one in your config. Why it might make sense to use ALE's autocomplete: It's built in, great and well maintained, why install something twice? Supertab doesn't seem to be maintained anymore, YouCompleteMe and Deoplete need further dependencies and are much heavier.
+
+### Install linter/fixer engines
 Install your desired linter/fixer engines, e.g. Prettier and Standard JS (don't mix local and global installs) and ALE will find them. To set fixers, e.g. first Prettier, second Standard JS, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. FYI, a linter warns, a fixer fixes. This should be enough for a quick start. Further options/commands => `:help ale` but remember, you should rather be coding than reading a linter's help file. Life is too short and coding is more fun. 😉
 
 ## Still waisting time fixing your linter? PlugClean!
