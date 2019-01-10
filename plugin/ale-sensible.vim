@@ -1,3 +1,10 @@
+" ALE SENSIBLE
+" Sensible defaults for ALE
+" 
+" MIT License
+" 
+" Copyright (c) 2019 desmap, <desmap@yandex.com>, https://github.com/desmap/ale-sensible
+
 let g:ale_set_signs = 0
 let g:ale_lint_on_text_changed = 'normal'
 let g:ale_lint_on_insert_leave = 1
