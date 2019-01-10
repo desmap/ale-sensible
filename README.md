@@ -1,13 +1,13 @@
 <img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=25%/>
 
-**ALE SENSIBLE–sensible defaults for ALE in a tiny 250-byte-plugin. Enjoy a welcoming, stutter-free, turn-key linter.**
+**ALE SENSIBLE–sensible defaults for ALE in a tiny plugin. Enjoy a welcoming, stutter-free, turn-key linter.**
 
-## Awesome with all dark or light colorthemes and gutter-free:
+## Gutter-free and awesome with all colorthemes, dark and light ones:
 
 <img src='https://user-images.githubusercontent.com/43666255/50975662-6cb3b780-14ee-11e9-84c4-97e2b3e18645.png' width=100%/>
 
 ## ALE SENSIBLE vs ALE–save time and feel good again
-**Experience a butter-smooth intuitive UI out of the box**, PlugInstall and code. Set sensible defaults for ALE without reading bulky docs, a 44Kb README 😬 or tons of help files. The README you're reading now is mere 3Kb and you won't need more. Don't waste time with a linter's setup and docs. It's. just. a. linter. Move on, keep coding, create stuff, play Fortnite, get wasted but do not fix your linter, it's the way around.
+**Experience a butter-smooth intuitive UI out of the box**, PlugInstall and code. Set sensible defaults for ALE without reading bulky docs, a 44Kb README 😬 or tons of help files. The README you're reading now is mere 3Kb and you won't need more. Don't waste time with a linter's setup and docs. It's. just. a. linter. Move on, keep coding, create stuff, play Fortnite but do not fix your linter, it should be the way around.
 
 - **No more stuttery, jumpy sign column/gutter** shaking up your code, pumping the screen in and out
 - **Easy quick-switching of buffers** without laggy linter engines bumping the gutter in your face two seconds after switching
