@@ -28,7 +28,8 @@
 # Install and never touch your linter again
 
 **No more half-baken ALE,** no more time-wasting, just put...
-##Install with vim-plug
+
+## Install with vim-plug
 ```
 Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ```
