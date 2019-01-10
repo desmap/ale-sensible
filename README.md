@@ -1,12 +1,12 @@
-<img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=35%/>
+<img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=45%/>
 
 **`:PlugInstall` sensible defaults for ALE and enjoy a welcoming, turn-key linter and autocomplete**
 
-# Gutter-free, clean and slick with EVERY colortheme
+## Gutter-free, clean and slick with EVERY colortheme
 
 <img src='https://user-images.githubusercontent.com/43666255/50975662-6cb3b780-14ee-11e9-84c4-97e2b3e18645.png' width=100%/>
 
-# ALE SENSIBLE vs ALE–save time and feel good again
+## ALE SENSIBLE vs ALE–save time and feel good again
 **Experience a butter-smooth intuitive UI out of the box**, PlugInstall and code. Set sensible defaults for ALE without reading bulky docs, a 44Kb README 😬 or tons of help files. The README you're reading now is mere 4Kb and you won't need more. Don't waste time with a linter's setup and docs. It's. just. a. linter. Move on, keep coding, create stuff, play Fortnite but do not fix your linter, it should be the way around.
 
 - **No more stuttery, jumpy sign column/gutter** shaking up your code, pumping the screen in and out
@@ -25,15 +25,15 @@
 
 **Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right settings, getting the linter fast, fixing wrong linter warnings or testing different linting engines for days. Only because ALE is asynchronous doesn't make it less distracting. 
 
-# Install and never touch your linter again
+## Install and never touch your linter again
 
 **No more half-baken ALE,** no more time-wasting, just put...
 
-## Install with vim-plug
+### Install with vim-plug
 ```
 Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ```
-## Install with Vundle
+### Install with Vundle
 ```
 Plugin 'desmap/ale-sensible' | Plugin 'w0rp/ale'
 ```
@@ -47,8 +47,8 @@ If you have already a line with `'w0rp/ale'`, remove this line. Also remove all 
 ### Install linter/fixer engines
 Install your desired linter/fixer engines, e.g. Prettier and Standard JS (don't mix local and global installs) and ALE will find them. To set fixers, e.g. first Prettier, second Standard JS, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix`. FYI, a linter warns, a fixer fixes. This should be enough for a quick start. Further options/commands => `:help ale` but remember, you should rather be coding than reading a linter's help file. Life is too short and coding is more fun. 😉
 
-### Join the discussion
+## Join the discussion
 Still think some sensible defaults are missing? Open a pull request!
 
 ---
-_ALE SENSIBLE, MIT License, Copyright (c) 2019 desmap_
+ALE SENSIBLE, MIT License, Copyright (c) 2019 desmap
