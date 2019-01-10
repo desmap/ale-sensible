@@ -2,7 +2,7 @@
 
 **PlugInstall sensible defaults for ALE and enjoy a welcoming, turn-key linter.**
 
-## Gutter-free and slick with all colorthemes–dark and light ones
+## Gutter-free, slick and gorgeous with EVERY colortheme
 
 <img src='https://user-images.githubusercontent.com/43666255/50975662-6cb3b780-14ee-11e9-84c4-97e2b3e18645.png' width=100%/>
 
