@@ -6,7 +6,7 @@ It's a welcoming, stutter-free, turn-key linter.**
 <img src='https://user-images.githubusercontent.com/43666255/50959284-e0d86600-14c2-11e9-834f-d5d805932541.png' width=75%/>
 
 ## ALE SENSIBLE vs ALE
-**Experience a butter-smooth intuitive UI** out of the box, PlugInstall and code. Set sensible defaults for ALE _without_ reading bulky docs, a 44Kb README 😬 or tons of help files. The README you're reading now is mere 3Kb and you won't need more. Don't waste time with a linter's setup and docs. _It's. just. a. linter._ Move on, keep coding, create stuff, play Fortnite, get wasted but do not fix your linter. The linter should fix _your_ code.
+**Experience a butter-smooth intuitive UI out of the box**, PlugInstall and code. Set sensible defaults for ALE _without_ reading bulky docs, a 44Kb README 😬 or tons of help files. The README you're reading now is mere 3Kb and you won't need more. Don't waste time with a linter's setup and docs. _It's. just. a. linter._ Move on, keep coding, create stuff, play Fortnite, get wasted but do not fix your linter. The linter should fix _your_ code.
 
 - **No more stuttery, jumpy sign column/gutter** shaking up your code, pumping the screen in and out
 - **Easy quick-switching of buffers** without laggy linter engines bumping the gutter in your face two seconds after switching
