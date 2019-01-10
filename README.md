@@ -1,4 +1,4 @@
-<img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=45%/>
+<img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=35%/>
 
 **`:PlugInstall` sensible defaults for ALE and enjoy a welcoming, turn-key linter and autocomplete**
 
