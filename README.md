@@ -1,6 +1,7 @@
-<img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=35%/>
+<img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=25%/>
 
-**ALE SENSIBLE is a tiny 190 byte new default overriding ALE's defaults. It's a welcoming, stutter-free, turn-key linter.**
+**ALE SENSIBLE is a tiny 250 byte new default overriding ALE's defaults.  
+It's a welcoming, stutter-free, turn-key linter.**
 
 <img src='https://user-images.githubusercontent.com/43666255/50959284-e0d86600-14c2-11e9-834f-d5d805932541.png' width=75%/>
 
