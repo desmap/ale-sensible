@@ -2,7 +2,7 @@
 
 **ALE SENSIBLE–sensible defaults for ALE in a tiny 250-byte-plugin. Enjoy a welcoming, stutter-free, turn-key linter.**
 
-## Looks awesome with _any_ dark or light colortheme and is gutter-free:
+## Looks awesome with _all_ dark or light colortheme and is gutter-free:
 
 <img src='https://user-images.githubusercontent.com/43666255/50975662-6cb3b780-14ee-11e9-84c4-97e2b3e18645.png' width=100%/>
 
