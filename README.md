@@ -21,7 +21,7 @@
 - **No mess with other sign-column/gutter tools** which are more important (e.g. git tools, markers)
 - **One-step removal and adding back** of ALE SENSIBLE, ALE and their configuration, if `:ALEToggle` is not enough
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
-- **Autocomplete works out of the box and is mapped to `<Tab>`** and can be overwritten if another autocomplete is used
+- **Autocomplete works out of the box is on `<Tab>` in Insert Mode** and can be overwritten if another plugin is used
 
 **Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right settings, getting the linter fast, fixing wrong linter warnings or testing different linting engines for days. Only because ALE is asynchronous doesn't make it less distracting. 
 
