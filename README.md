@@ -6,7 +6,7 @@
 
 **The first time, I installed ALE, I uninstalled it right away.** ALE is mighty but its power is hidden behind subpar defaults and a stuttery, laggy UI. It's just a few settings to change but it took me days crawling through helpfiles and Github issues to find the right ones. It's ok to spend time configuring your editor but your linter?? Don't waste time like I did and use sane defaults from the first second. Introducing ALE SENSIBLE:
 
-## Gutter-free, butter-smooth and gorgeous with ANY colortheme
+## Gutter-free, buttersmooth and gorgeous with ANY colortheme
 
 <img src='https://user-images.githubusercontent.com/43666255/50975662-6cb3b780-14ee-11e9-84c4-97e2b3e18645.png' width=100%/>
 
