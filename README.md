@@ -8,7 +8,7 @@
 
 ## Gutter-free, buttersmooth and gorgeous with ANY colortheme
 
-No more broken colorthemes, no dull grey sign coulmn/gutter anymore, ALE SENSIBLE works with any colortheme (dark & light):
+No more broken colorthemes, no dull grey sign coulmn/gutter anymore, ALE SENSIBLE works with any colortheme (dark and light). Subtle non-obtrusive highlights mark errors exactly where they are keeping the gutter free for git tools or markers.  
 
 <img src='https://user-images.githubusercontent.com/43666255/51017575-c8c11f00-1574-11e9-97f6-58c8a88f79bc.png' width=100%/>
 
