@@ -9,6 +9,7 @@
 ## Gutter-free, buttersmooth and gorgeous with ANY colortheme
 
 <img src='https://user-images.githubusercontent.com/43666255/51017575-c8c11f00-1574-11e9-97f6-58c8a88f79bc.png' width=100%/>
+
 _No more broken colorthemes, no dull grey sign coulmn/gutter anymore, ALE SENSIBLE works with any colortheme (dark and light)_
 
 ## ALE SENSIBLE vs ALE–save time and feel good again
