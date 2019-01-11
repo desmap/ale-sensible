@@ -25,13 +25,13 @@ let g:ale_lint_on_insert_leave = 1
 let g:ale_lint_delay = 0
 
 " Enable autocomplete...
-let g:ale_completion_enabled=1
+let g:ale_completion_enabled = 1
 
 " ...and put it on the right key, Tab
 inoremap <silent> <Tab> <C-x><C-o>
 
 " Set gorgeous colors for marked lines to sane, readable combinations 
-" working with any GUI colorscheme
+" working with any colorscheme
 au! VimEnter,BufEnter,ColorScheme *
   \ exec "hi! ALEInfoLine
     \ guifg=".(&background=='light'?'#808000':'#ffff00')."
