@@ -4,7 +4,7 @@
 
 ## Using ALE or going down the rabbit hole
 
-**The first time, I installed ALE, I uninstalled it right away.** ALE is mighty but its power is hidden behind subpar defaults and a unintuitive, stuttery UI. It's just a few settings required to feel good but it took me a day of crawling through help files and Github issues to find the right ones and then, I had to clutter my .vimrc/init.vim with an ALE config. It's ok to spend time configuring your editor but your linter?? Don't waste time like I did and use sane defaults from the first second. Introducing ALE SENSIBLE:
+**The first time, I installed ALE, I uninstalled it right away.** ALE is mighty but its power is hidden behind subpar defaults and a unintuitive, stuttery UI. It's just a few settings needed to feel good again but it took me a day of crawling through help files and Github issues to find the right ones and then, I had to clutter my .vimrc/init.vim with an ALE config. It's ok to spend time configuring your editor but your linter?? Don't waste time like I did and use sane defaults from the first second. Introducing ALE SENSIBLE:
 
 ## Gutter-free, buttersmooth and gorgeous with ANY colortheme
 
