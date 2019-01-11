@@ -23,7 +23,7 @@ let g:ale_completion_enabled=1
 " ...and put it on the right key, Tab
 inoremap <silent> <Tab> <C-x><C-o>
 
-" Renew colors for marked lines to sane, readable combinations 
+" Set gorgeous colors for marked lines to sane, readable combinations 
 " working with any colorscheme
 au! VimEnter,BufEnter,ColorScheme *
   \ exec "hi! ALEInfoLine
