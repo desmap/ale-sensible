@@ -31,7 +31,7 @@ let g:ale_completion_enabled=1
 inoremap <silent> <Tab> <C-x><C-o>
 
 " Set gorgeous colors for marked lines to sane, readable combinations 
-" working with any colorscheme
+" working with any GUI colorscheme
 au! VimEnter,BufEnter,ColorScheme *
   \ exec "hi! ALEInfoLine
     \ guifg=".(&background=='light'?'#808000':'#ffff00')."
