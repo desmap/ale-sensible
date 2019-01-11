@@ -2,7 +2,7 @@
 
 **`:PlugInstall` sensible defaults for ALE and enjoy a welcoming asynchronous linter and autocomplete out of the box.**
 
-The first time, I installed ALE, I uninstalled it right away. ALE is mighty but its power is hidden behind subpar defaults. It's just a few settings to change but it took me days to find the right ones. Don't waste time like I did and use sane defaults from the first second. Introducing ALE SENSIBLE:
+The first time, I installed ALE, I uninstalled it right away. ALE is mighty but its power is hidden behind subpar defaults. It's just a few settings to change but it took me days crawling through helpfiles and Github issues to find the right ones. Don't waste time like I did and use sane defaults from the first second. Introducing ALE SENSIBLE:
 
 ## Gutter-free, clean, slick with ANY colortheme
 
