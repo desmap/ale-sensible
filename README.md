@@ -24,6 +24,7 @@
 - **No bloat in your .vimrc/init.vim**, no fiddling around, no trial and error, it's just one line
 - **No mess with other sign-column/gutter tools** which are more important (e.g. git tools, markers)
 - **One-step removal and adding back** of ALE SENSIBLE, ALE and their configuration, if `:ALEToggle` is not enough
+- **Don't clutter your .vimrc/init.vim with ALE settings** you won't get months later, keep your config clean 
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
 - **Autocomplete included** since linter and autocomplete use the same sources, so why not offer both?
 - **Autocomplete turned on by default, why was it ever off ALE?**, no need for heavy extra plugins
