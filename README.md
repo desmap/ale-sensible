@@ -4,7 +4,7 @@
 
 ## Using ALE or going down the rabbit hole
 
-**The first time, I installed ALE, I uninstalled it right away.** ALE is mighty but its power is hidden behind subpar defaults and a stuttery, laggy UI. It's just a few settings to change but it took me days crawling through helpfiles and Github issues to find the right ones. It's ok to spend time configuring your editor but your linter?? Don't waste time like I did and use sane defaults from the first second. Introducing ALE SENSIBLE:
+**The first time, I installed ALE, I uninstalled it right away.** ALE is mighty but its power is hidden behind subpar defaults and a unintuitive, stuttery, laggy UI. It's just a few settings to change but it took me days crawling through helpfiles and Github issues to find the right ones. It's ok to spend time configuring your editor but your linter?? Don't waste time like I did and use sane defaults from the first second. Introducing ALE SENSIBLE:
 
 ## Gutter-free, buttersmooth and gorgeous with ANY colortheme
 
