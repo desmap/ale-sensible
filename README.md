@@ -23,7 +23,7 @@
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
 - **Autocomplete included** since linter and autocomplete use the same sources, so why not offer both?
 - **Autocomplete turned on by default, why was it ever off ALE?**, no need for heavy extra plugins
-- **Autocomplete mapped to a sane `<Tab>` (ALE: `<C-x><C-o>`)** gets automatically overridden if `<Tab>` is used
+- **Autocomplete mapped to a sane `<Tab>` (ALE: `<C-x><C-o>`)**, gets automatically overridden if `<Tab>` is used
 - **Can coexist with other autocompletes**, they still work but why install the same thing twice? 
 
 **Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right settings, getting the linter fast, fixing wrong linter warnings or testing different linting engines for days. Only because ALE is asynchronous doesn't make it less distracting. 
