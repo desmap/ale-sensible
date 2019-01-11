@@ -36,17 +36,19 @@ No more broken colorthemes, no dull grey sign coulmn/gutter anymore, ALE SENSIBL
 
 ## Install and never touch your linter again
 
-**No more half-baken ALE,** no more time-wasting, just put one of followings line in your .vimrc/init.vim, then run `:PlugInstall`. 
+**No more half-baken ALE,** no more time-wasting, just put add one line. 
 
-### Install with vim-plug
+### Install with vim-plug, add...
 ```
 Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ```
+to your .vimrc/init.vim, restart Vim/Neovim and run :PlugInstall`.
 
-### Install with Vundle
+### Install with Vundle, add...
 ```
-Plugin 'desmap/ale-sensible' | Plugin 'w0rp/ale'
+Plugin 'desmap/ale-sensible' | Plugin 'w0rp/ale' :PlugInstall`. 
 ```
+to your .vimrc/init.vim, restart Vim/Neovim and run :PlugInstall`.
 
 ## Final steps and you are ready to go
 
