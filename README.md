@@ -59,4 +59,5 @@ Install your desired linter/fixer engines, e.g. Prettier and Standard JS (don't 
 Still think some sensible defaults are missing? Open a pull request!
 
 ---
+<img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=15%/>
 ALE SENSIBLE, MIT License, Copyright (c) 2019 desmap
