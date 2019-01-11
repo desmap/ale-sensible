@@ -19,7 +19,7 @@ No more broken colorthemes, no dull grey sign coulmn/gutter anymore, ALE SENSIBL
 - **No nervous ALE blinking and sending false warnings for the current line** while you type and try to code
 - **Intuitve highlighting there where you expect**, right in the lines where errors are and not somewhere outside 
 - **No obstrusive, plump default highlighting**, marked lines are still easy to read and edit
-- **Kicks in when it's the right:** in Normal Mode always and in Insert Mode only after leaving Insert Mode
+- **Kicks in when it's right:** in Normal Mode always and in Insert Mode only after leaving Insert Mode
 - **No intentionally delayed linting**, responsive linting always after 0ms (ALE sets an extra 200ms delay)
 - **Don't clutter your .vimrc/init.vim with ALE settings** you won't understand months later, keep your config clean 
 - **No bloat in your .vimrc/init.vim**, no fiddling around, no trial and error, it's just one line
