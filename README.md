@@ -36,7 +36,7 @@ No more broken colorthemes, no dull grey sign coulmn/gutter anymore, ALE SENSIBL
 
 ## Install and never touch your linter again
 
-**No more half-baken ALE,** no more time-wasting, just put add one line. 
+**No more half-baken ALE,** no more time-wasting, just add one line. 
 
 ### Install with vim-plug
 Add
