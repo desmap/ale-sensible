@@ -24,12 +24,6 @@ let g:ale_lint_on_insert_leave = 1
 " Set ALE's 200ms delay to zero
 let g:ale_lint_delay = 0
 
-" Enable autocomplete...
-let g:ale_completion_enabled = 1
-
-" ...and put it on the right key, Tab
-inoremap <silent> <Tab> <C-x><C-o>
-
 " Set gorgeous colors for marked lines to sane, readable combinations 
 " working with any colorscheme
 au! VimEnter,BufEnter,ColorScheme *
