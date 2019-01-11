@@ -39,14 +39,14 @@ No more broken colorthemes, no dull grey sign coulmn/gutter anymore, ALE SENSIBL
 **No more half-baken ALE,** no more time-wasting, just put add one line. 
 
 ### Install with vim-plug
-Add...
+Add
 ```
 Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ```
 to your .vimrc/init.vim, restart Vim/Neovim and run :PlugInstall`.
 
 ### Install with Vundle
-Add...
+Add
 ```
 Plugin 'desmap/ale-sensible' | Plugin 'w0rp/ale' :PlugInstall`. 
 ```
