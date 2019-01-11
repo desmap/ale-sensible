@@ -10,7 +10,7 @@
 
 <img src='https://user-images.githubusercontent.com/43666255/51017575-c8c11f00-1574-11e9-97f6-58c8a88f79bc.png' width=100%/>
 
-_No more broken colorthemes, no dull grey sign coulmn/gutter anymore, ALE SENSIBLE works with any colortheme (dark and light)_
+_No more broken colorthemes, no dull grey sign coulmn/gutter anymore, ALE SENSIBLE works with any colortheme (dark & light)_
 
 ## ALE SENSIBLE vs ALE–save time and feel good again
 **Experience a butter-smooth intuitive UI out of the box**, PlugInstall and code. Set sensible defaults for ALE without reading bulky docs, a 44Kb README 😬 or tons of help files. The README you're reading now is mere 5Kb and you won't need more. Don't waste time with a linter's setup and docs. It's. just. a. linter. Move on, keep coding, create stuff, play Fortnite but do not fix your linter, it should be the way around.
