@@ -1,6 +1,6 @@
 <img src='https://user-images.githubusercontent.com/43666255/50661376-413b4500-0fa3-11e9-9bd4-7248514f576a.png' width=35%/>
 
-**`:PlugInstall` sensible defaults for ALE and enjoy an intuitive asynchronous linter and autocomplete out of the box.**
+**`:PlugInstall` sensible defaults for ALE and enjoy an intuitive asynchronous linter out of the box.**
 
 ## Using ALE or going down the rabbit hole
 
@@ -26,10 +26,6 @@ No more broken colorthemes, no dull grey sign coulmn/gutter anymore, ALE SENSIBL
 - **No mess with other sign-column/gutter tools** which are more important (e.g. git tools, markers)
 - **One-step removal and adding back** of ALE SENSIBLE, ALE and their configuration, if `:ALEToggle` is not enough
 - **Experience Vim/Neovim as what they are**, slick, minmalistic editors, not some jarring Frankenstein-IDEs
-- **The best autocomplete is included** since linter and autocomplete use the same sources, so why not offer both?
-- **Autocomplete turned on by default, why was it ever off ALE?**, no need for heavy extra plugins
-- **Autocomplete mapped to a sane `<Tab>` (ALE: `<C-x><C-o>`)**, gets automatically overridden if `<Tab>` is used
-- **Can coexist with other autocompletes**, they still work but why install and config the same thing twice?
 - **Fully documented plugin file**, quickly understand what has changed, be able to do custom stuff yourself if required
 
 **Linters are overrated:** Actually most of us are less productive with linters than without because of 'configuration porn', finding right settings, getting the linter fast, fixing wrong linter warnings or testing different linting engines for days. Only because ALE is asynchronous doesn't make it less distracting. 
@@ -54,8 +50,8 @@ to your .vimrc/init.vim, restart Vim/Neovim and run `:PlugInstall`.
 
 ## Final steps and you are ready to go
 
-### Remove redundant plugins and autocompletes
-If you have already a line with `'w0rp/ale'`, remove this line (because we have to make sure that some of the new overriding configs load before ALE loads, some ALE oddity, hence the order in the install lines above). Also remove all your autocomplete plugins, ALE brings a great one along which ALE SENSIBLE finally turns on and maps to `<Tab>` in Insert Mode. If you want to use another autocomplete just keep the `<Tab>` remapping to that other one in your config, it will overwrite ALE's one. Why it might still make sense to use ALE's autocomplete: It's built in, uses the same core and is well maintained, why install and config the same thing twice? Supertab doesn't seem to be maintained anymore, YouCompleteMe and Deoplete need further dependencies (gcc or Python3), are much heavier and need config work. YouCompleteMe is massive and full-fledged like your daddy's IDE. Question is if you as a Vim/Neovim really want this. If yes, YouCompleteMe and ALE SENSIBLE do not intefere.
+### Remove redundant plugins 
+If you have already a line with `'w0rp/ale'`, remove this line (because we have to make sure that some of the new overriding configs load before ALE loads, some ALE oddity, hence the order in the install lines above).
 
 ### Install linter/fixer engines
 Install your desired linter/fixer engines, e.g. for prettified JavaScript linting Prettier and Standard => `npm i -D prettier standard` (don't mix local and global installs) and ALE will find and support them all. To set fixers, e.g. first Prettier, second Standard JS, add `let g:ale_fixers = ['prettier', 'standard']` to your .vimrc/init.vim. To execute them, run `:ALEFix` and if you like it map it to some key. FYI, a linter warns, a fixer fixes. This should be enough for a quick start. Further options/command/supported linters => `:help ale` but remember, you should rather be coding than reading a linter's help file. Life is too short and coding is more fun. 😉
