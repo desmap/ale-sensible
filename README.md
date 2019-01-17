@@ -39,14 +39,14 @@ Add
 ```
 Plug 'desmap/ale-sensible' | Plug 'w0rp/ale'
 ```
-to your .vimrc/init.vim, restart Vim/Neovim and run `:PlugInstall`.
+to your .vimrc/init.vim, restart Vim/Neovim and run `:PlugInstall` in your .vimrc/init.vim file.
 
 ### Install with Vundle
 Add
 ```
 Plugin 'desmap/ale-sensible' | Plugin 'w0rp/ale'
 ```
-to your .vimrc/init.vim, restart Vim/Neovim and run `:PlugInstall`.
+to your .vimrc/init.vim, restart Vim/Neovim and run `:PlugInstall` in your .vimrc/init.vim file.
 
 ## Final steps and you are ready to go
 
