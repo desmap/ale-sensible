@@ -26,7 +26,7 @@ let g:ale_lint_delay = 0
 
 " Set gorgeous colors for marked lines to sane, readable combinations 
 " working with any colorscheme
-au! VimEnter,BufEnter,ColorScheme *
+au VimEnter,BufEnter,ColorScheme *
   \ exec "hi! ALEInfoLine
     \ guifg=".(&background=='light'?'#808000':'#ffff00')."
     \ guibg=".(&background=='light'?'#ffff00':'#555500') |
