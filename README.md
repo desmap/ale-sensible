@@ -10,6 +10,8 @@ It's ok to spend time configuring your editor but your linter? Don't waste time 
 
 ## Gutter-free, buttersmooth and gorgeous with ANY colortheme
 
+<img src='https://user-images.githubusercontent.com/43666255/51756005-4a11c900-20c0-11e9-882b-931ef83cdeb6.gif' width=70%>
+
 No more broken colorthemes, no dull grey sign coulmn/gutter anymore, ALE SENSIBLE works with any colortheme (dark and light ones). Subtle, non-obtrusive, well-balanced highlights signal errors exactly where they are keeping the gutter free for git tools and markers.  
 <img src='https://user-images.githubusercontent.com/43666255/51017575-c8c11f00-1574-11e9-97f6-58c8a88f79bc.png' width=100%/>
 
